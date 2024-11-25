@@ -6,7 +6,8 @@
     <script src="https://cdn.tailwindcss.com"></script>
   </head>
   <body class="flex items-center justify-center w-full h-full bg-green-200">
-    <section class="w-[80%] max-w-[300px] h-[50vh] bg-red-200">
+    <section class="w-[80%] max-w-[300px] h-[60vh] bg-red-200 rounded-lg">
+      <!-- pertanyaan -->
       <div
         id="container-soal"
         class="flex flex-col justify-evenly w-full h-full p-4"
@@ -14,20 +15,37 @@
         <h4 class="font-light text-[20px] text-center">
           Pilih sesuai yang menggambarkan diri kamu
         </h4>
-        <h2 class="font-bold text-[20px] text-center">Gender kamu</h2>
-        <button
-          id="button-1"
-          class="w-full h-auto font-normal text-[20px] text-center border-2 border-black py-2 rounded-lg"
+        <h2
+          id="soal"
+          class="font-bold text-[24px] text-center h-[30%] bg-blue-300"
         >
-          Laki-laki
-        </button>
-        <button
-          id="button-2"
-          class="w-full h-auto font-normal text-[20px] text-center border-2 border-black py-2 rounded-lg"
-        >
-          Perempuan
-        </button>
+          Gender kamu
+        </h2>
+        <div class="h-[40%] flex flex-col justify-center gap-4 bg-blue-300">
+          <button
+            id="button-1"
+            class="w-full h-auto font-normal text-[20px] text-center border-2 border-black py-2 rounded-lg"
+          >
+            Laki-laki
+          </button>
+          <button
+            id="button-2"
+            class="w-full h-auto font-normal text-[20px] text-center border-2 border-black py-2 rounded-lg"
+          >
+            Perempuan
+          </button>
+        </div>
+      </div>
+      <!-- hasil -->
+      <div
+        id="container-hasil"
+        class="flex flex-col justify-evenly w-full h-full p-4 hidden"
+      >
+        <h4 class="font-light text-[20px] text-center">Hasil kamu</h4>
+        <h2 id="hasil" class="font-bold text-[28px] text-center"></h2>
       </div>
     </section>
+
+    <script src="script.js"></script>
   </body>
 </html>
