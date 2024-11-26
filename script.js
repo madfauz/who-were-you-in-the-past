@@ -176,11 +176,11 @@ btn1.addEventListener("click", () => {
     deskripsi.innerHTML = dataHasil[score].biografi;
     setTimeout(() => {
       loading.style.width = `100%`;
-      card.style.backgroundImage = `url(${dataHasil[score].url})`;
       setTimeout(() => {
         title.innerHTML = "Kamu mirip dengan";
         containerLoading.style.display = "none";
         containerHasil.style.display = "flex";
+        card.style.backgroundImage = `url(${dataHasil[score].url})`;
       }, 3000);
     }, 100);
   }
@@ -206,11 +206,11 @@ btn2.addEventListener("click", () => {
     deskripsi.innerHTML = dataHasil[score].biografi;
     setTimeout(() => {
       loading.style.width = `100%`;
-      card.style.backgroundImage = `url(${dataHasil[score].url})`;
       setTimeout(() => {
         title.innerHTML = "Kamu mirip dengan";
         containerLoading.style.display = "none";
         containerHasil.style.display = "flex";
+        card.style.backgroundImage = `url(${dataHasil[score].url})`;
       }, 3000);
     }, 100);
   }
