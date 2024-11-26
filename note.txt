@@ -1,3 +1,5 @@
+with disney cartoon style art
+
 1. pria-sosial-inovasi-detail-memimpin-kelompok
 
 siapa tokoh pria terkenal dunia yang suka bersosialisasi, suka berinovasi, memperhatikan detail kecil, berjiwa pemimpin, dan mementingkan kepentingan kelompok?
@@ -11,11 +13,41 @@ siapa tokoh pria terkenal dunia yang suka bersosialisasi, suka berinovasi, mempe
 Thomas Jefferson (1743–1826) adalah pemimpin visioner yang inovatif, bersosialisasi dengan luas, dan berfokus pada detail untuk menciptakan kebijakan yang mementingkan kepentingan masyarakat.
 
 3. pria-sosial-inovasi-detail-arahan-kelompok
+
+siapa tokoh pria terkenal dunia yang suka bersosialisasi, suka berinovasi, memperhatikan detail kecil, selalu mengikuti arahan pemimpin, dan mementingkan kepentintingan kelompok tertentu?
+
+Nikola Tesla adalah seorang ilmuwan, insinyur listrik, fisikawan, dan penemu yang lahir di Smiljan, Kroasia (saat itu bagian dari Kekaisaran Austria). Ia terkenal karena kontribusinya pada pengembangan teknologi arus bolak-balik (AC) dan inovasinya yang menjadi dasar banyak teknologi modern.
+
 4. pria-sosial-inovasi-detail-arahan-umum
+
+siapa tokoh pria terkenal dunia yang suka bersosialisasi, suka berinovasi, memperhatikan detail kecil, selalu mengikuti arahan pemimpin, dan mementingkan kepentintingan umum?
+
+Martin Luther King Jr. (1929–1968) adalah seorang pendeta dan aktivis hak sipil dari Amerika Serikat yang memimpin perjuangan melawan diskriminasi rasial melalui aksi tanpa kekerasan. Ia terkenal dengan pidato "I Have a Dream" yang menyerukan kesetaraan dan keadilan.
+
 5. pria-sosial-inovasi-spontan-memimpin-kelompok
+
+siapa tokoh pria terkenal dunia yang suka bersosialisasi, suka berinovasi, melaukan sesuatu secara spontan, memiliki jiwa pemimpin, dan mementingkan kepentintingan kelompok tertentu?
+
+Elon Musk adalah tokoh visioner dunia, CEO Tesla dan SpaceX, yang dikenal suka bersosialisasi, berinovasi, bertindak spontan, memiliki jiwa kepemimpinan kuat, dan fokus pada proyek-proyek besar seperti energi terbarukan dan eksplorasi luar angkasa untuk kepentingan umat manusia.
+
 6. pria-sosial-inovasi-spontan-memimpin-umum
+
+siapa tokoh pria terkenal dunia yang suka bersosialisasi, suka berinovasi, melaukan sesuatu secara spontan, memiliki jiwa pemimpin, dan mementingkan kepentintingan umum?
+
+Barack Obama adalah mantan Presiden Amerika Serikat yang dikenal sebagai pemimpin yang inovatif, bersosialisasi dengan berbagai kalangan, dan memiliki jiwa kepemimpinan. Ia mendorong kebijakan progresif seperti Affordable Care Act untuk kesejahteraan umum dan terkenal dengan sikap responsif serta kemampuan beradaptasi dalam situasi spontan.
+
 7. pria-sosial-inovasi-spontan-arahan-kelompok
+
+siapa tokoh pria terkenal dunia yang suka bersosialisasi, suka berinovasi, melakukan sesuatu secara spontan, mengikuti arahan pemimpinnya, dan mementingkan kepentintingan kelompok tertentu?
+
+Steve Jobs adalah pendiri Apple yang dikenal karena inovasinya dalam teknologi, seperti iPhone dan Mac. Ia suka bersosialisasi, membuat keputusan spontan, dan memimpin dengan visi kuat. Jobs juga pernah mengikuti arahan dalam karirnya sebelum memimpin Apple, dan selalu fokus pada kepentingan pengguna serta kemajuan teknologi.
+
 8. pria-sosial-inovasi-spontan-arahan-umum
+
+siapa tokoh pria terkenal dunia yang suka bersosialisasi, suka berinovasi, melakukan sesuatu secara spontan, mengikuti arahan pemimpinnya, dan mementingkan kepentintingan umum?
+
+Richard Branson adalah pendiri Virgin Group yang terkenal karena inovasinya dalam berbagai industri. Ia suka bersosialisasi, sering membuat keputusan spontan, dan berfokus pada kepentingan umum melalui filantropi. Branson juga belajar dari pemimpin lain dan aktif mengikuti kesempatan untuk berkembang dalam dunia bisnis.
+
 9. pria-sosial-rutinitas-detail-memimpin-kelompok
 
 siapa tokoh pria terkenal dunia yang suka bersosialisasi, suka menjalankan rutinitas, memperhatikan detail kecil, berjiwa pemimpin, dan mementingkan kepentingan kelompok tertentu?
@@ -23,12 +55,47 @@ siapa tokoh pria terkenal dunia yang suka bersosialisasi, suka menjalankan rutin
 Winston Churchill (1874–1965) adalah seorang pemimpin yang suka bersosialisasi, sangat disiplin dengan rutinitasnya, dan sangat memperhatikan detail dalam kebijakan dan keputusan yang diambil. Kepemimpinannya sangat fokus pada kepentingan kelompok—khususnya kepentingan Inggris dan sekutunya—terutama dalam menghadapi tantangan besar pada Perang Dunia II.
 
 10. pria-sosial-rutinitas-detail-memimpin-umum
+
+siapa tokoh pria terkenal dunia yang suka bersosialisasi, suka menjalankan rutinitas, memperhatikan detail kecil, berjiwa pemimpin, dan mementingkan kepentingan umum?
+
+Warren Buffett adalah investor legendaris dan CEO Berkshire Hathaway. Ia dikenal dengan rutinitas disiplin, perhatian terhadap detail dalam investasi, dan gaya kepemimpinan yang bijaksana. Buffett juga aktif dalam filantropi, berkomitmen untuk menyumbangkan sebagian besar kekayaannya untuk kepentingan umum.
+
 11. pria-sosial-rutinitas-detail-arahan-kelompok
+
+siapa tokoh pria terkenal dunia yang suka bersosialisasi, suka menjalankan rutinitas, memperhatikan detail kecil, menjalankan arahan atasan, dan mementingkan kepentingan kelompok tertentu?
+
+Bill Gates adalah pendiri Microsoft dan filantropis terkenal. Ia dikenal karena rutinitas kerja yang disiplin, perhatian terhadap detail, dan fokus pada pengembangan teknologi. Selain sukses di bisnis, Gates aktif dalam filantropi melalui Bill & Melinda Gates Foundation, yang mendukung kesehatan global dan pendidikan.
+
 12. pria-sosial-rutinitas-detail-arahan-umum
+
+siapa tokoh pria terkenal dunia yang suka bersosialisasi, suka menjalankan rutinitas, memperhatikan detail kecil, menjalankan arahan atasan, dan mementingkan kepentingan umum?
+
+Jeff Bezos adalah pendiri Amazon yang dikenal dengan rutinitas kerja disiplin, perhatian terhadap detail dalam bisnis, dan kemampuan berinteraksi dengan berbagai kalangan. Ia menjalankan perusahaan dengan fokus pada kepuasan pelanggan dan juga terlibat dalam filantropi melalui Bezos Day One Fund untuk pendidikan dan pengentasan tunawisma.
+
 13. pria-sosial-rutinitas-spontan-memimpin-kelompok
+
+siapa tokoh pria terkenal dunia yang suka bersosialisasi, suka menjalankan rutinitas, melakukan sesuatu secara spontan, berjiwa pemimpin, dan mementingkan kepentingan kelompok tertentu?
+
+Jack Ma adalah pendiri Alibaba Group, dikenal dengan kepemimpinan yang inspiratif dan pendekatannya yang spontan dalam mengambil keputusan bisnis. Ia sangat sosial dan memiliki kemampuan berinteraksi dengan berbagai kalangan, dari karyawan hingga pemimpin dunia. Ma sering menjalani rutinitas yang produktif dan sangat berfokus pada inovasi untuk menciptakan perubahan di dunia perdagangan digital.
+
 14. pria-sosial-rutinitas-spontan-memimpin-umum
+
+siapa tokoh pria terkenal dunia yang suka bersosialisasi, suka menjalankan rutinitas, melakukan sesuatu secara spontan, berjiwa pemimpin, dan mementingkan kepentingan umum?
+
+Tony Robbins adalah seorang pengusaha, penulis, dan motivator terkenal. Ia dikenal dengan kemampuan bersosialisasinya yang luar biasa, sering berbicara di depan ribuan orang, dan memiliki rutinitas harian yang terstruktur untuk menjaga kesehatan fisik dan mental. Robbins juga sering mengambil keputusan secara spontan dalam situasi yang memerlukan perubahan cepat.
+
 15. pria-sosial-rutinitas-spontan-arahan-kelompok
+
+siapa tokoh pria terkenal dunia yang suka bersosialisasi, suka menjalankan rutinitas, melakukan sesuatu secara spontan, mengikuti arahan pemimpin, dan mementingkan kepentingan kelomok tertentu?
+
+Tim Cook Sebagai CEO Apple, dikenal dengan kebiasaannya bersosialisasi dalam berbagai acara dan pertemuan industri. Ia menjalani rutinitas yang disiplin untuk memastikan kelancaran operasional perusahaan. Meskipun lebih terstruktur, Cook juga sering mengambil keputusan spontan yang penting untuk kemajuan Apple. Sebagai pemimpin, Cook mengikuti arahan dan visi pendiri Apple, Steve Jobs
+
 16. pria-sosial-rutinitas-spontan-arahan-umum
+
+siapa tokoh pria terkenal dunia yang suka bersosialisasi, suka menjalankan rutinitas, melakukan sesuatu secara spontan, mengikuti arahan pemimpin, dan mementingkan kepentingan umum?
+
+Warren Buffett adalah salah satu investor terbesar dan pendiri Berkshire Hathaway, Warren Buffett dikenal suka bersosialisasi dengan banyak tokoh penting di dunia bisnis dan ekonomi. Ia memiliki rutinitas yang disiplin dalam berinvestasi dan membaca, serta membuat keputusan yang sering spontan namun berdasarkan analisis yang mendalam.
+
 17. pria-sendiri-inovasi-detail-memimpin-kelompok
 
 siapa tokoh pria terkenal dunia yang suka menyendiri, suka berinovasi, memperhatikan detail kecil, berjiwa pemimpin, dan mementingkan kepentingan kelompok tertentu?
@@ -36,12 +103,47 @@ siapa tokoh pria terkenal dunia yang suka menyendiri, suka berinovasi, memperhat
 Nikola Tesla (1856–1943) adalah seorang inovator yang lebih suka menyendiri, sangat teliti dalam setiap penemuan, dan memiliki visi untuk kebaikan umat manusia. Meskipun ia tidak selalu menjadi pemimpin dalam arti tradisional, pengaruhnya dalam bidang teknologi dan ilmuwan menjadikannya seorang pemimpin sejati dalam dunia inovasi.
 
 18. pria-sendiri-inovasi-detail-memimpin-umum
+
+siapa tokoh pria terkenal dunia yang suka menyendiri, suka berinovasi, memperhatikan detail kecil, berjiwa pemimpin, dan mementingkan kepentingan umum?
+
+Albert Einstein seorang ilmuwan terkemuka, Einstein dikenal sebagai pribadi yang lebih suka menyendiri untuk berpikir dan mengembangkan ide-ide inovatif. Ia sangat berfokus pada inovasi dalam bidang fisika, menghasilkan teori relativitas yang mengubah cara kita memahami alam semesta.
+
 19. pria-sendiri-inovasi-detail-arahan-kelompok
+
+siapa tokoh pria terkenal dunia yang suka menyendiri, suka berinovasi, memperhatikan detail kecil, mengikuti arahan pemimpin, dan mementingkan kepentingan kelompok tertentu?
+
+Steve Wozniak adalah salah satu pendiri Apple, Wozniak dikenal dengan sifatnya yang lebih suka menyendiri, terutama dalam bekerja dan mengembangkan inovasi teknologinya. Ia berfokus pada inovasi dalam menciptakan komputer pribadi pertama yang revolusioner. Wozniak sangat perhatian terhadap detail dalam merancang perangkat keras Apple. 
+
 20. pria-sendiri-inovasi-detail-arahan-umum
+
+siapa tokoh pria terkenal dunia yang suka menyendiri, suka berinovasi, memperhatikan detail kecil, mengikuti arahan pemimpin, dan mementingkan kepentingan umum?
+
+Mark Zuckerberg adalah pendiri dan CEO Facebook (sekarang Meta), Mark Zuckerberg dikenal dengan kebiasaannya menyendiri untuk fokus pada pengembangan teknologi dan inovasi dalam platform media sosial. Ia sangat perhatian terhadap detail dalam desain dan fungsionalitas produk-produk yang dibuat oleh Facebook.
+
 21. pria-sendiri-inovasi-spontan-memimpin-kelompok
+
+siapa tokoh pria terkenal dunia yang suka menyendiri, suka berinovasi, melakukan sesuatu dengan spontan, berjiwa pemimpin, dan mementingkan kepentingan kelompok tertentu?
+
+Julius Caesar (100–44 SM) adalah pemimpin militer dan politik Romawi yang membawa perubahan besar dalam sejarah Roma. Ia terkenal karena menaklukkan Galia, mengakhiri Republik Romawi, dan memulai era Kekaisaran. Sebagai diktator, ia memperkenalkan reformasi besar, tetapi pemerintahannya berakhir dengan pembunuhan oleh para senator yang merasa terancam oleh kekuasaannya.
+
 22. pria-sendiri-inovasi-spontan-memimpin-umum
+
+siapa tokoh  dari masa lalu pria terkenal dunia yang suka menyendiri, suka berinovasi, melakukan sesuatu dengan spontan, berjiwa pemimpin, dan mementingkan kepentingan umum? jelaskan secara singkat tentang dia 
+
+Abraham Lincoln (1809–1865) adalah Presiden AS yang terkenal dengan kepemimpinan bijaksana dan fokus pada kepentingan umum, seperti menghapus perbudakan. Ia cenderung menyendiri, membuat keputusan spontan, dan berinovasi dalam menghadapi tantangan besar, terutama selama Perang Saudara.
+
 23. pria-sendiri-inovasi-spontan-arahan-kelompok
+
+siapa tokoh  dari masa lalu pria terkenal dunia yang suka menyendiri, suka berinovasi, melakukan sesuatu dengan spontan, mengikuti arahan pemimpin, dan mementingkan kepentingan kelompok tertentu? jelaskan secara singkat tentang dia 
+
+Socrates (470–399 SM) adalah seorang filsuf Yunani yang terkenal dengan kebiasaan menyendiri, berinovasi dalam pemikiran, dan melakukan diskusi secara spontan. Ia mengikuti prinsip-prinsip kebijaksanaan dan mencari kebenaran, sambil mementingkan kepentingan masyarakat melalui pengajaran dan pemikiran kritis.
+
 24. pria-sendiri-inovasi-spontan-arahan-umum
+
+siapa tokoh  dari zaman dulu, pria terkenal dunia yang suka menyendiri, suka berinovasi, melakukan sesuatu dengan spontan, mengikuti arahan pemimpin, dan mementingkan kepentingan umum? jelaskan secara singkat tentang dia 
+
+Aristotle (384–322 SM) adalah filsuf Yunani yang suka menyendiri, berinovasi dalam pemikiran, dan mengambil keputusan spontan. Ia mengikuti ajaran Plato dan mementingkan kepentingan umum melalui kontribusinya dalam ilmu pengetahuan dan etika.
+
 25. pria-sendiri-rutinitas-detail-memimpin-kelompok
 
 siapa tokoh pria terkenal dunia yang suka menyendiri, suka menjalankan rutinitas, memperhatikan detail kecil, berjiwa pemimpin, dan mementingkan kepentingan kelompok tertentu?
@@ -49,12 +151,47 @@ siapa tokoh pria terkenal dunia yang suka menyendiri, suka menjalankan rutinitas
 Isaac Newton adalah seorang ilmuwan yang lebih memilih kesendirian, sangat disiplin dalam menjalani rutinitas, dan sangat memperhatikan detail dalam penelitiannya. Sebagai pemimpin dalam dunia sains, penemuannya yang monumental memengaruhi generasi mendatang dan memajukan ilmu pengetahuan untuk kepentingan umat manusia.
 
 26. pria-sendiri-rutinitas-detail-memimpin-umum
+
+siapa tokoh  dari zaman dulu, pria terkenal dunia yang suka menyendiri, suka menjalankan rutinitas, melakukan sesuatu dengan detail, berjiwa pemimpin, dan mementingkan kepentingan umum? jelaskan secara singkat tentang dia 
+
+Alexander the Great (356–323 SM) adalah tokoh yang sesuai dengan deskripsi tersebut. Ia dikenal sebagai pemimpin militer yang cerdas dan berjiwa pemimpin, sering menjalani rutinitas ketat dan memimpin pasukannya dengan detail. Meskipun sering berada di medan perang, ia juga dikenal dengan kemampuannya untuk memperluas dan menyatukan kerajaan demi kepentingan umum, termasuk penyebaran kebudayaan dan pengetahuan ke wilayah yang ia taklukkan.
+
 27. pria-sendiri-rutinitas-detail-arahan-kelompok
+
+siapa tokoh  dari zaman dulu, pria terkenal dunia yang suka menyendiri, suka menjalankan rutinitas, melakukan sesuatu dengan detail, mengikuti arahan pemimpin, dan mementingkan kepentingan kelompok tertentu? jelaskan secara singkat tentang dia 
+
+Plato (427–347 SM) adalah filsuf Yunani, Ia sering menyendiri untuk berpikir mendalam dan menjalankan rutinitas filosofis. Plato sangat memperhatikan detail dalam karyanya, seperti dalam dialog-dialognya yang mendalam. Ia mengikuti ajaran gurunya, Socrates, dan mementingkan kepentingan kelompok tertentu, terutama dalam membangun masyarakat ideal berdasarkan filosofi keadilan.
+
 28. pria-sendiri-rutinitas-detail-arahan-umum
+
+siapa tokoh  dari zaman dulu, pria terkenal dunia yang suka menyendiri, suka menjalankan rutinitas, melakukan sesuatu dengan detail, mengikuti arahan pemimpin, dan mementingkan kepentingan umum? jelaskan secara singkat tentang dia.
+
+Confucius (551–479 SM) adalah seorang filsuf dan pemimpin moral yang terkenal dengan kebiasaan menyendiri untuk bermeditasi dan mempelajari etika. Confucius menjalankan rutinitas yang ketat dan selalu memperhatikan detail dalam ajaran moralnya. Ia mengikuti prinsip-prinsip tradisional dan mementingkan kepentingan umum melalui penekanan pada hubungan sosial yang harmonis dan pemerintahan yang adil.
+
 29. pria-sendiri-rutinitas-spontan-memimpin-kelompok
+
+siapa tokoh  dari zaman dulu, pria terkenal dunia yang suka menyendiri, suka menjalankan rutinitas, melakukan sesuatu dengan spontan, berjiwa pemimpin, dan mementingkan kepentingan kelompok tertentu? jelaskan secara singkat tentang dia.
+
+Leonidas I (540–480 SM) adalah Raja Sparta yang terkenal karena kepemimpinannya dalam Pertempuran Thermopylae, di mana ia memimpin pasukannya dengan keberanian luar biasa. Ia menjalani rutinitas ketat dan selalu fokus pada strategi detail, meskipun terkadang harus membuat keputusan spontan. Leonidas berjiwa pemimpin yang kuat dan mementingkan kepentingan Sparta, bahkan mengorbankan nyawanya untuk mempertahankan kebebasan dan kehormatan negaranya.
+
 30. pria-sendiri-rutinitas-spontan-memimpin-umum
+
+siapa tokoh  dari zaman dulu, pria terkenal dunia yang suka menyendiri, suka menjalankan rutinitas, melakukan sesuatu dengan spontan, berjiwa pemimpin, dan mementingkan kepentingan umum? jelaskan secara singkat tentang dia.
+
+Marcus Aurelius (121–180 M) adalah Kaisar Romawi yang juga seorang filsuf Stoik. Ia terkenal dengan kebiasaan menyendiri untuk bermeditasi, menjalani rutinitas yang disiplin, dan membuat keputusan spontan yang bijaksana. Sebagai pemimpin, ia mementingkan kepentingan umum, berfokus pada stabilitas dan kesejahteraan Romawi, serta menulis "Meditations" untuk membagikan pemikirannya tentang kebajikan dan tanggung jawab.
+
 31. pria-sendiri-rutinitas-spontan-arahan-kelompok
+
+siapa tokoh  dari zaman dulu, pria terkenal dunia yang suka menyendiri, suka menjalankan rutinitas, melakukan sesuatu dengan spontan, mengikuti arahan pemimpin, dan mementingkan kepentingan kelompok tertentu? jelaskan secara singkat tentang dia.
+
+Hannibal Barca (247–183 SM) adalah jenderal Carthage yang terkenal karena strategi militernya yang cemerlang dalam Perang Punic Kedua. Ia sering menyendiri untuk merencanakan taktik, menjalani rutinitas ketat, dan membuat keputusan spontan di medan perang. Hannibal mementingkan kepentingan Carthage dan pasukannya dalam melawan Roma, serta mengikuti arahan untuk mempertahankan negara dan menghancurkan musuh.
+
 32. pria-sendiri-rutinitas-spontan-arahan-umum
+
+siapa tokoh  dari zaman dulu, pria terkenal dunia yang suka menyendiri, suka menjalankan rutinitas, melakukan sesuatu dengan spontan, mengikuti arahan pemimpin, dan mementingkan kepentingan umum? jelaskan secara singkat tentang dia.
+
+Confucius (551–479 SM) adalah filsuf Tiongkok yang menekankan pentingnya etika, hubungan sosial, dan pemerintahan yang adil. Ia dikenal menyendiri untuk merenung, menjalankan rutinitas dalam mengajarkan nilai-nilai moral, dan sering membuat keputusan spontan dalam situasi tertentu. Confucius mementingkan kepentingan umum dengan mengajarkan prinsip-prinsip kebajikan untuk menciptakan masyarakat yang harmonis.
+
 33. wanita-sosial-inovasi-detail-memimpin-kelompok
 
 siapa tokoh wanita terkenal dunia yang suka bersosialisasi, suka berinovasi, memperhatikan detail kecil, berjiwa pemimpin, dan mementingkan kepentingan kelompok tertentu?
@@ -62,6 +199,8 @@ siapa tokoh wanita terkenal dunia yang suka bersosialisasi, suka berinovasi, mem
 Marie Curie (1867–1934) adalah seorang ilmuwan inovatif yang tidak hanya berfokus pada penemuan, tetapi juga mementingkan kepentingan umum, terutama dalam bidang medis dan ilmiah. Kepemimpinannya dalam penelitian dan kolaborasi ilmiah menjadikannya salah satu tokoh wanita paling berpengaruh di dunia.
 
 34. wanita-sosial-inovasi-detail-memimpin-umum
+
+
 35. wanita-sosial-inovasi-detail-arahan-kelompok
 36. wanita-sosial-inovasi-detail-arahan-umum
 37. wanita-sosial-inovasi-spontan-memimpin-kelompok
@@ -80,6 +219,11 @@ Angela Merkel adalah seorang pemimpin wanita yang sangat disiplin, memperhatikan
 45. wanita-sosial-rutinitas-spontan-memimpin-kelompok
 46. wanita-sosial-rutinitas-spontan-memimpin-umum
 47. wanita-sosial-rutinitas-spontan-arahan-kelompok
+
+siapa tokoh wanita terkenal dunia yang suka bersosialisasi, suka menjalankan rutinitas, melakukan sesuatu secara spontan, mengikuti arahan pemimpin, dan mementingkan kepentingan kelomok tertentu?
+
+Sheryl Sandberg adalah pemimpin yang memenuhi kriteria ini. Sebagai mantan COO Facebook, Sandberg dikenal sangat bersosialisasi dan berinteraksi dengan berbagai kalangan di dunia bisnis dan teknologi. Ia menjalankan rutinitas yang disiplin dalam pekerjaannya dan sering menghadapi keputusan-keputusan penting yang membutuhkan spontanitas.
+
 48. wanita-sosial-rutinitas-spontan-arahan-umum
 49. wanita-sendiri-inovasi-detail-memimpin-kelompok
 

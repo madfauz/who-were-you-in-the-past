@@ -3,46 +3,112 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
     <script src="https://cdn.tailwindcss.com"></script>
   </head>
-  <body class="flex items-center justify-center w-full h-full bg-green-200">
-    <section class="w-[80%] max-w-[300px] h-[60vh] bg-red-200 rounded-lg">
+  <body
+    class="flex flex-col items-center justify-center w-full h-full bg-gradient-to-b from-[#2c179a] to-[#10b9f4] animated-gradient"
+  >
+    <h4
+      id="title"
+      class="font-light mb-4 w-[80%] text-[16px] text-center text-white"
+    >
+      Cari siapa kamu di dimensi lain
+    </h4>
+    <section
+      id="card"
+      class="relative w-[80%] max-w-[300px] h-[400px] rounded-lg bg-no-repeat bg-cover bg-center bg-gray-300 shadow-md duration-300 animated-card"
+    >
+      <!-- home -->
+      <div
+        id="container-home"
+        class="w-full h-full flex flex-col items-center justify-center rounded-lg gap-10 bg-[rgba(0,0,0,0.2)]"
+      >
+        <h2
+          id="home"
+          class="font-extrabold text-[28px] text-center w-[80%] rounded-lg flex items-center justify-center text-white"
+        >
+          SIAPA KAMU DI DIMENSI LAIN
+        </h2>
+        <button
+          id="button-mulai"
+          class="bg-white rounded-lg w-[70%] py-2 px-6 font-black hover:bg-gradient-to-r from-[#2c179a] to-[#10b9f4] hover:text-white duration-300"
+        >
+          MULAI
+        </button>
+      </div>
       <!-- pertanyaan -->
       <div
         id="container-soal"
-        class="flex flex-col justify-evenly w-full h-full p-4"
+        class="relative flex flex-col justify-evenly w-full h-full p-4 rounded-lg hidden"
       >
-        <h4 class="font-light text-[20px] text-center">
-          Pilih sesuai yang menggambarkan diri kamu
-        </h4>
+        <div
+          class="absolute top-0 left-0 rounded-lg h-full w-full bg-[rgba(0,0,0,0.6)] bg-cover bg-center bg-no-repeat rounded-lg z-[20]"
+        ></div>
+        <div
+          class="relative w-full h-[16px] rounded-lg bg-white p-[2px] mb-[8px] z-[40]"
+        >
+          <div
+            id="bar"
+            class="w-[17%] duration-300 animated-gradient h-full bg-gradient-to-b from-[#2c179a] to-[#10b9f4] rounded-lg"
+          ></div>
+        </div>
         <h2
           id="soal"
-          class="font-bold text-[24px] text-center h-[30%] bg-blue-300"
+          class="relative font-bold text-[20px] text-center w-[90%] mx-auto h-[40%] rounded-lg flex items-center justify-center text-white shadow-md p-2 z-[30] text-gray-500"
         >
           Gender kamu
         </h2>
-        <div class="h-[40%] flex flex-col justify-center gap-4 bg-blue-300">
+        <div class="relative h-[30%] flex gap-2 z-[40]">
           <button
             id="button-1"
-            class="w-full h-auto font-normal text-[20px] text-center border-2 border-black py-2 rounded-lg"
+            class="w-full h-auto font-bold text-[16px] text-black hover:text-white text-center border-black p-2 rounded-lg bg-[rgba(255,255,255,0.7)] hover:bg-[#2c179a] duration-300 shadow-xl"
           >
-            Laki-laki
+            Pria
           </button>
           <button
             id="button-2"
-            class="w-full h-auto font-normal text-[20px] text-center border-2 border-black py-2 rounded-lg"
+            class="w-full h-auto font-bold text-[16px] text-black hover:text-white text-center border-black p-2 rounded-lg bg-[rgba(255,255,255,0.7)] hover:bg-[#10b9f4] duration-300 shadow-xl"
           >
-            Perempuan
+            Wanita
           </button>
         </div>
+      </div>
+
+      <!-- loading -->
+      <div
+        id="container-loading"
+        class="absolute top-0 left-0 w-full h-full bg-[url('./image/loading.jpeg')] bg-no-repeat bg-cover bg-center rounded-lg p-4 hidden"
+      >
+        <h2 class="font-bold text-[24px] text-center text-white mt-[90%] mb-4">
+          Menunggu
+        </h2>
+        <div
+          class="relative w-full h-[16px] rounded-lg bg-white p-[2px] mb-[8px] z-[40]"
+        >
+          <div
+            id="loading"
+            class="w-[0%] duration-[3000ms] animated-gradient h-full bg-gradient-to-b from-[#2c179a] to-[#10b9f4] rounded-lg"
+          ></div>
+        </div>
+        <div></div>
       </div>
       <!-- hasil -->
       <div
         id="container-hasil"
-        class="flex flex-col justify-evenly w-full h-full p-4 hidden"
+        class="absolute flex-col w-full h-[max-content] p-4 bottom-0 bg-gradient-to-b from-[rgba(0,0,0,0)] to-[rgba(0,0,0,1)] rounded-lg hidden"
       >
-        <h4 class="font-light text-[20px] text-center">Hasil kamu</h4>
-        <h2 id="hasil" class="font-bold text-[28px] text-center"></h2>
+        <h2 id="hasil" class="font-bold text-[24px] text-start text-white">
+          Leonardo da Vinci
+        </h2>
+        <h4
+          id="deskripsi"
+          class="font-normal text-[12px] text-start text-white"
+        >
+          adalah seorang inovator multi-talenta yang dikenal karena jiwa
+          sosialnya, perhatian pada detail, dan kemampuan memimpin melalui
+          karya-karya yang melampaui zamannya.
+        </h4>
       </div>
     </section>
 

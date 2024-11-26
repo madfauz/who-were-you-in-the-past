@@ -1,0 +1,37 @@
+@keyframes gradientAnimation {
+  0% {
+    background-position: 0% 0%;
+  }
+  50% {
+    background-position: 100% 100%;
+  }
+  100% {
+    background-position: 0% 0%;
+  }
+}
+
+/* Menambahkan animasi ke class */
+.animated-gradient {
+  background-size: 200% 200%;
+  animation: gradientAnimation 5s ease infinite;
+}
+
+@keyframes cardAnimation {
+  0% {
+    transform: rotate(0deg);
+  }
+  25% {
+    transform: rotate(1deg);
+  }
+  75% {
+    transform: rotate(-1deg);
+  }
+  100% {
+    transform: rotate(0deg);
+  }
+}
+
+/* animation: cardAnimation 10s ease infinite; */
+/* .animated-card {
+  transform: perspective(1000px) rotateY(-30deg) rotateX(0deg);
+} */
