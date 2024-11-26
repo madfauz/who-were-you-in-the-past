@@ -63,14 +63,14 @@ const dataHasil = {
     nomor: 1,
     nama: "Leonardo da Vinci",
     biografi:
-      "adalah seorang inovator multi-talenta yang dikenal karena jiwa sosialnya, perhatian pada detail, dan kemampuan memimpin melalui karya-karya yang melampaui zamannya. Ia memprioritaskan inovasi untuk kepentingan masyarakat, menjadikannya simbol kreativitas dan kepemimpinan kolaboratif.",
+      "adalah seorang seniman, ilmuwan, dan polymath Italia yang terkenal karena karya-karya seperti Mona Lisa dan The Last Supper. Selain seni, ia melakukan inovasi dalam bidang anatomi, teknik, dan aerodinamika. Da Vinci menggabungkan seni dan sains, menggambar berbagai penemuan dan alat yang belum terwujud pada masanya. Kejeniusan dan pencapaiannya menjadikannya salah satu tokoh terbesar dalam sejarah Renaisans.",
     url: "./image/1.jpeg",
   },
   "pria-sosial-inovasi-detail-memimpin-umum": {
     nomor: 2,
     nama: "Thomas Jefferson",
     biografi:
-      "adalah pemimpin visioner yang inovatif, bersosialisasi dengan luas, dan berfokus pada detail untuk menciptakan kebijakan yang mementingkan kepentingan masyarakat.",
+      "adalah Presiden ketiga Amerika Serikat dan penulis utama Deklarasi Kemerdekaan. Ia memperluas wilayah AS melalui Pembelian Louisiana dan mendukung pemerintahan yang terbatas, hak individu, dan pendidikan. Jefferson meninggalkan warisan penting dalam pembentukan negara Amerika.",
     url: "./image/2.jpeg",
   },
   "pria-sosial-inovasi-detail-arahan-kelompok": {
@@ -89,10 +89,45 @@ const dataHasil = {
   },
   "pria-sosial-inovasi-spontan-memimpin-kelompok": {
     nomor: 5,
-    nama: "Elon Musk",
+    nama: "Napoleon Bonaparte",
     biografi:
-      "adalah tokoh visioner dunia, CEO Tesla dan SpaceX, yang dikenal suka bersosialisasi, berinovasi, bertindak spontan, memiliki jiwa kepemimpinan kuat, dan fokus pada proyek-proyek besar seperti energi terbarukan dan eksplorasi luar angkasa untuk kepentingan umat manusia.",
+      "adalah Kaisar Prancis dan jenderal militer terkenal karena inovasinya dalam strategi perang. Ia memiliki jiwa pemimpin yang kuat, sering membuat keputusan spontan, dan mementingkan kepentingan Prancis serta pasukannya dalam memperluas kekaisaran dan mempertahankan kekuasaan.",
     url: "./image/5.jpeg",
+  },
+  "pria-sosial-inovasi-spontan-memimpin-umum": {
+    nomor: 6,
+    nama: "Genghis Khan",
+    biografi:
+      "adalah pemimpin Mongol yang dikenal karena inovasi dalam taktik militer dan organisasi pasukan. Ia memiliki jiwa pemimpin yang kuat, sering membuat keputusan spontan, dan memimpin untuk memperluas kekaisarannya serta mendukung perdagangan dan pemerintahan efisien di wilayah yang dikuasainya.",
+    url: "./image/6.jpeg",
+  },
+  "pria-sosial-inovasi-spontan-arahan-kelompok": {
+    nomor: 7,
+    nama: "Benedict Arnold",
+    biografi:
+      "adalah jenderal Amerika yang awalnya terkenal karena inovasinya dalam strategi militer dan kepemimpinan selama Perang Kemerdekaan. Ia sering bersosialisasi dengan pemimpin militer, membuat keputusan spontan di medan perang, dan mementingkan kepentingan perjuangan kemerdekaan Amerika. Namun, karena merasa diabaikan dan kecewa, ia akhirnya berkhianat dan bergabung dengan Inggris, memperjuangkan kepentingan mereka selama perang.",
+    url: "./image/7.jpeg",
+  },
+  "pria-sosial-inovasi-spontan-arahan-umum": {
+    nomor: 8,
+    nama: "Galileo Galilei",
+    biografi:
+      "adalah ilmuwan dan astronom yang terkenal karena inovasinya, seperti penemuan teleskop. Ia sering bersosialisasi dengan ilmuwan lain, membuat keputusan spontan dalam penelitiannya, dan memimpin dalam memperkenalkan teori heliosentris. Galileo berfokus pada kepentingan umum dengan menyebarkan pengetahuan ilmiah yang mendasari revolusi ilmiah.",
+    url: "./image/8.jpeg",
+  },
+  "pria-sosial-rutinitas-detail-memimpin-kelompok": {
+    nomor: 9,
+    nama: "King David",
+    biografi:
+      "adalah Raja Israel yang terkenal karena kepemimpinan dan keberaniannya dalam memimpin pasukan Israel. Ia memperluas wilayah kerajaannya dan dianggap sebagai pemimpin yang bijaksana, berani, dan perhatian terhadap rakyatnya. David juga dikenal karena menulis banyak puisi dalam kitab Mazmur, dan ia memimpin dengan memprioritaskan kepentingan bangsa Israel.",
+    url: "./image/9.jpeg",
+  },
+  "pria-sosial-rutinitas-detail-memimpin-umum": {
+    nomor: 10,
+    nama: "Homer",
+    biografi:
+      "adalah penyair epik Yunani yang menulis Iliad dan Odyssey. Karya-karyanya, yang penuh detail, menggambarkan nilai-nilai kepahlawanan dan kebijaksanaan. Meskipun sedikit yang diketahui tentang hidupnya, Homer memengaruhi budaya Yunani dan memberikan kontribusi besar pada sastra dan pemikiran umum.",
+    url: "./image/10.jpeg",
   },
   "wanita-sosial-inovasi-detail-memimpin-kelompok": {
     nomor: 33,
