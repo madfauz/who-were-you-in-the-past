@@ -253,23 +253,11 @@ card.addEventListener("touchend", () => {
 // Share kartu =========================
 
 document.getElementById("share-wa").addEventListener("click", () => {
-  const card = document.getElementById("card");
-
-  const canvas = document.createElement("canvas");
-  const ctx = canvas.getContext("2d");
-
-  // Ukur ukuran card
-  canvas.width = card.offsetWidth;
-  canvas.height = card.offsetHeight;
-
-  // Gambar card ke canvas
-  html2canvas(card).then((canvas) => {
-    const imageUrl =
-      "https://th.bing.com/th/id/OIG2.6u_cj9JZPZfLx4fJDB3Q?w=1024&h=1024&rs=1&pid=ImgDetMain";
-    const message = `Check this image ${imageUrl}`;
-    const whatsappUrl = `https://wa.me/?text=${encodeURIComponent(message)}`;
-
-    // Buka link di jendela baru
-    window.open(whatsappUrl, "_blank");
+  html2canvas(document.getElementById("card")).then((canvas) => {
+    const link = document.createElement("a");
+    link.download = "card.png"; // Nama file
+    link.href = canvas.toDataURL("image/png"); // Konversi ke gambar
+    link.click(); // Simpan file lokal
+    alert("Sekarang unggah file ini secara manual ke Instagram!");
   });
 });
