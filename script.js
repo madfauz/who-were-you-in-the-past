@@ -136,6 +136,13 @@ const dataHasil = {
       "adalah seorang ilmuwan inovatif yang tidak hanya berfokus pada penemuan, tetapi juga mementingkan kepentingan umum, terutama dalam bidang medis dan ilmiah. Kepemimpinannya dalam penelitian dan kolaborasi ilmiah menjadikannya salah satu tokoh wanita paling berpengaruh di dunia.",
     url: "./image/33.jpeg",
   },
+  "wanita-sosial-inovasi-detail-memimpin-umum": {
+    nomor: 34,
+    nama: "Cleopatra VII",
+    biografi:
+      "adalah Ratu Mesir yang terkenal karena kemampuannya dalam membina hubungan diplomatik dan berinovasi dalam pemerintahan. Sebagai pemimpin, ia menjalankan strategi dengan cermat dan berjiwa pemimpin, selalu memprioritaskan kesejahteraan Mesir dan kepentingan rakyatnya dalam menghadapi tantangan politik dan militer.",
+    url: "./image/34.jpeg",
+  },
 };
 
 let score = "";
@@ -227,6 +234,19 @@ card.addEventListener("mousemove", (e) => {
 });
 
 card.addEventListener("mouseleave", () => {
+  card.style.transform = `perspective(1000px) rotateX(0deg) rotateY(0deg)`;
+});
+
+card.addEventListener("touchmove", (e) => {
+  const touch = e.touches[0];
+  const x = touch.pageX - card.offsetLeft - card.offsetWidth / 2;
+  const y = touch.pageY - card.offsetTop - card.offsetHeight / 2;
+  card.style.transform = `perspective(1000px) rotateX(${
+    (y / 10) * -1 * 2
+  }deg) rotateY(${(x / 10) * 3}deg)`;
+});
+
+card.addEventListener("touchend", () => {
   card.style.transform = `perspective(1000px) rotateX(0deg) rotateY(0deg)`;
 });
 
