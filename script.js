@@ -246,8 +246,8 @@ card.addEventListener("touchmove", (e) => {
   }deg) rotateY(${(x / 10) * 3}deg)`;
 });
 
-card.addEventListener("touchend", () => {
-  card.style.transform = `perspective(1000px) rotateX(0deg) rotateY(0deg)`;
-});
+// card.addEventListener("touchend", () => {
+//   card.style.transform = `perspective(1000px) rotateX(0deg) rotateY(0deg)`;
+// });
 
 // ==============================
