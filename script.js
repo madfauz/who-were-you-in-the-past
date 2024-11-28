@@ -214,6 +214,76 @@ const dataHasil = {
       "adalah Penulis Amerika yang terkenal dengan cerpen horor dan misterinya. Poe dianggap sebagai salah satu pendiri genre detektif modern. Ia memiliki kehidupan yang penuh misteri dan tragis, yang terrefleksi dalam karya-karyanya.",
     url: "./image/22.jpeg",
   },
+  "pria-sendiri-inovasi-spontan-arahan-kelompok": {
+    nomor: 23,
+    nama: "Socrates",
+    biografi:
+      "adalah seorang filsuf Yunani yang terkenal dengan kebiasaan menyendiri, berinovasi dalam pemikiran, dan melakukan diskusi secara spontan. Ia mengikuti prinsip-prinsip kebijaksanaan dan mencari kebenaran, sambil mementingkan kepentingan masyarakat melalui pengajaran dan pemikiran kritis.",
+    url: "./image/23.jpeg",
+  },
+  "pria-sendiri-inovasi-spontan-arahan-umum": {
+    nomor: 24,
+    nama: "Aristotle",
+    biografi:
+      "adalah filsuf Yunani yang suka menyendiri, berinovasi dalam pemikiran, dan mengambil keputusan spontan. Ia mengikuti ajaran Plato dan mementingkan kepentingan umum melalui kontribusinya dalam ilmu pengetahuan dan etika.",
+    url: "./image/24.jpeg",
+  },
+  "pria-sendiri-rutinitas-detail-memimpin-kelompok": {
+    nomor: 25,
+    nama: "Isaac Newton",
+    biografi:
+      "adalah seorang ilmuwan yang lebih memilih kesendirian, sangat disiplin dalam menjalani rutinitas, dan sangat memperhatikan detail dalam penelitiannya. Sebagai pemimpin dalam dunia sains, penemuannya yang monumental memengaruhi generasi mendatang dan memajukan ilmu pengetahuan untuk kepentingan umat manusia.",
+    url: "./image/25.jpeg",
+  },
+  "pria-sendiri-rutinitas-detail-memimpin-umum": {
+    nomor: 26,
+    nama: "Alexander the Great",
+    biografi:
+      "adalah tokoh yang sesuai dengan deskripsi tersebut. Ia dikenal sebagai pemimpin militer yang cerdas dan berjiwa pemimpin, sering menjalani rutinitas ketat dan memimpin pasukannya dengan detail. Meskipun sering berada di medan perang, ia juga dikenal dengan kemampuannya untuk memperluas dan menyatukan kerajaan demi kepentingan umum, termasuk penyebaran kebudayaan dan pengetahuan ke wilayah yang ia taklukkan.",
+    url: "./image/26.jpeg",
+  },
+  "pria-sendiri-rutinitas-detail-arahan-kelompok": {
+    nomor: 27,
+    nama: "Plato",
+    biografi:
+      "adalah filsuf Yunani, Ia sering menyendiri untuk berpikir mendalam dan menjalankan rutinitas filosofis. Plato sangat memperhatikan detail dalam karyanya, seperti dalam dialog-dialognya yang mendalam. Ia mengikuti ajaran gurunya, Socrates, dan mementingkan kepentingan kelompok tertentu, terutama dalam membangun masyarakat ideal berdasarkan filosofi keadilan.",
+    url: "./image/27.jpeg",
+  },
+  "pria-sendiri-rutinitas-detail-arahan-umum": {
+    nomor: 28,
+    nama: "Carl Linnaeus",
+    biografi:
+      "adalah Seorang ahli botani Swedia yang mengembangkan sistem klasifikasi makhluk hidup yang masih digunakan hingga kini. Linnaeus dikenal dengan ketelitiannya dalam mengidentifikasi dan mengklasifikasikan tanaman. Kehidupannya yang dihabiskan untuk mempelajari alam menunjukkan dedikasinya pada ilmu pengetahuan.",
+    url: "./image/28.jpeg",
+  },
+  "pria-sendiri-rutinitas-spontan-memimpin-kelompok": {
+    nomor: 29,
+    nama: "Leonidas I",
+    biografi:
+      "adalah Raja Sparta yang terkenal karena kepemimpinannya dalam Pertempuran Thermopylae, di mana ia memimpin pasukannya dengan keberanian luar biasa. Ia menjalani rutinitas ketat dan selalu fokus pada strategi detail, meskipun terkadang harus membuat keputusan spontan. Leonidas berjiwa pemimpin yang kuat dan mementingkan kepentingan Sparta, bahkan mengorbankan nyawanya untuk mempertahankan kebebasan dan kehormatan negaranya.",
+    url: "./image/29.jpeg",
+  },
+  "pria-sendiri-rutinitas-spontan-memimpin-umum": {
+    nomor: 30,
+    nama: "Marcus Aurelius",
+    biografi:
+      "adalah Kaisar Romawi yang juga seorang filsuf Stoik. Ia terkenal dengan kebiasaan menyendiri untuk bermeditasi, menjalani rutinitas yang disiplin, dan membuat keputusan spontan yang bijaksana. Sebagai pemimpin, ia mementingkan kepentingan umum, berfokus pada stabilitas dan kesejahteraan Romawi, serta menulis 'Meditations' untuk membagikan pemikirannya tentang kebajikan dan tanggung jawab.",
+    url: "./image/30.jpeg",
+  },
+  "pria-sendiri-rutinitas-spontan-arahan-kelompok": {
+    nomor: 31,
+    nama: "Hannibal Barca",
+    biografi:
+      "adalah jenderal Carthage yang terkenal karena strategi militernya yang cemerlang dalam Perang Punic Kedua. Ia sering menyendiri untuk merencanakan taktik, menjalani rutinitas ketat, dan membuat keputusan spontan di medan perang. Hannibal mementingkan kepentingan Carthage dan pasukannya dalam melawan Roma, serta mengikuti arahan untuk mempertahankan negara dan menghancurkan musuh.",
+    url: "./image/31.jpeg",
+  },
+  "pria-sendiri-rutinitas-spontan-arahan-umum": {
+    nomor: 32,
+    nama: "Confucius",
+    biografi:
+      "adalah filsuf Tiongkok yang menekankan pentingnya etika, hubungan sosial, dan pemerintahan yang adil. Ia dikenal menyendiri untuk merenung, menjalankan rutinitas dalam mengajarkan nilai-nilai moral, dan sering membuat keputusan spontan dalam situasi tertentu. Confucius mementingkan kepentingan umum dengan mengajarkan prinsip-prinsip kebajikan untuk menciptakan masyarakat yang harmonis.",
+    url: "./image/32.jpeg",
+  },
   "wanita-sosial-inovasi-detail-memimpin-kelompok": {
     nomor: 33,
     nama: "Marie Curie",
