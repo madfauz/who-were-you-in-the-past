@@ -130,6 +130,90 @@ const dataHasil = {
       "adalah penyair epik Yunani yang menulis Iliad dan Odyssey. Karya-karyanya, yang penuh detail, menggambarkan nilai-nilai kepahlawanan dan kebijaksanaan. Meskipun sedikit yang diketahui tentang hidupnya, Homer memengaruhi budaya Yunani dan memberikan kontribusi besar pada sastra dan pemikiran umum.",
     url: "./image/10.jpeg",
   },
+  "pria-sosial-rutinitas-detail-arahan-kelompok": {
+    nomor: 11,
+    nama: "Marcus Vipsanius Agrippa",
+    biografi:
+      "adalah jenderal Romawi yang setia kepada Kaisar Augustus. Ia merencanakan strategi militer dan pembangunan secara detail, membantu kemenangan besar seperti Pertempuran Actium, serta mementingkan kepentingan Kekaisaran Romawi.",
+    url: "./image/11.jpeg",
+  },
+  "pria-sosial-rutinitas-detail-arahan-umum": {
+    nomor: 12,
+    nama: "Imhotep",
+    biografi:
+      "adalah tokoh Mesir kuno yang sesuai dengan deskripsi tersebut. Sebagai arsitek, dokter, dan penasihat Raja Djoser, Imhotep dikenal karena rutinitasnya dalam merancang proyek besar seperti Piramida Bertingkat di Saqqara dengan perhatian detail. Ia bekerja di bawah arahan Djoser dan mementingkan kepentingan umum melalui inovasi di bidang arsitektur, kedokteran, dan administrasi yang mendukung kemakmuran Mesir.",
+    url: "./image/12.jpeg",
+  },
+  "pria-sosial-rutinitas-spontan-memimpin-kelompok": {
+    nomor: 13,
+    nama: "Attila the Hun",
+    biografi:
+      "adalah pemimpin suku Hun yang terkenal karena kemampuannya bersosialisasi dengan sekutu dan pasukannya. Ia dikenal spontan dalam mengambil keputusan militer, memiliki jiwa pemimpin yang kuat, dan sangat mementingkan kepentingan kelompoknya, yaitu bangsa Hun. Attila memperluas wilayahnya dengan menaklukkan banyak bagian Eropa dan menanamkan pengaruh besar dalam sejarah Eropa kuno.",
+    url: "./image/13.jpeg",
+  },
+  "pria-sosial-rutinitas-spontan-memimpin-umum": {
+    nomor: 14,
+    nama: "Pericles",
+    biografi:
+      "adalah pemimpin Athena kuno yang terkenal. Ia dikenal suka bersosialisasi, menjalankan rutinitas pemerintahan, dan bertindak spontan dalam situasi krisis. Sebagai pemimpin yang visioner, Pericles memprioritaskan kepentingan umum dengan memperluas demokrasi dan mendukung seni, budaya, serta pembangunan seperti Parthenon, menjadikan Athena pusat peradaban Yunani.",
+    url: "./image/14.jpeg",
+  },
+  "pria-sosial-rutinitas-spontan-arahan-kelompok": {
+    nomor: 15,
+    nama: "Zhuge Liang",
+    biografi:
+      "seorang ahli strategi militer dan negarawan dari Tiongkok kuno, adalah tokoh yang cocok. Ia bersosialisasi dengan para pejabat dan rakyat, menjalankan rutinitas perencanaan dengan cermat, tetapi juga mampu bertindak spontan dalam situasi krisis. Sebagai penasihat utama Liu Bei dari negara Shu Han, Zhuge Liang mementingkan kepentingan kelompok dengan memberikan kontribusi besar dalam memperkuat kekuasaan Shu selama era Tiga Kerajaan.",
+    url: "./image/15.jpeg",
+  },
+  "pria-sosial-rutinitas-spontan-arahan-umum": {
+    nomor: 16,
+    nama: "William Wallace",
+    biografi:
+      "adalah tokoh Skotlandia terkenal yang memimpin perlawanan melawan Inggris. Ia bersosialisasi dengan rakyat dan para pejuang, menjalankan rutinitas perang gerilya, dan bertindak spontan dalam strategi melawan pasukan yang lebih besar. Wallace mengikuti arahan pemimpin Skotlandia untuk membebaskan tanah airnya dan mementingkan kepentingan umum dengan memperjuangkan kemerdekaan Skotlandia hingga akhir hayatnya.",
+    url: "./image/16.jpeg",
+  },
+  "pria-sendiri-inovasi-detail-memimpin-kelompok": {
+    nomor: 17,
+    nama: "Niccolò Machiavelli",
+    biografi:
+      "adalah filsuf, penulis, dan negarawan Italia yang sesuai dengan deskripsi ini. Ia sering bekerja secara mandiri, menciptakan inovasi dalam teori politik dengan pendekatan pragmatis. Machiavelli memperhatikan detail dalam karyanya, seperti The Prince, yang membahas strategi kepemimpinan. Sebagai pejabat Republik Florence, ia berjiwa pemimpin dan mementingkan kepentingan negara serta stabilitas kelompok penguasanya.",
+    url: "./image/17.jpeg",
+  },
+  "pria-sendiri-inovasi-detail-memimpin-umum": {
+    nomor: 18,
+    nama: "Albert Einstein",
+    biografi:
+      "adalah seorang ilmuwan terkemuka, Einstein dikenal sebagai pribadi yang lebih suka menyendiri untuk berpikir dan mengembangkan ide-ide inovatif. Ia sangat berfokus pada inovasi dalam bidang fisika, menghasilkan teori relativitas yang mengubah cara kita memahami alam semesta.",
+    url: "./image/18.jpeg",
+  },
+  "pria-sendiri-inovasi-detail-arahan-kelompok": {
+    nomor: 19,
+    nama: "Charles Darwin",
+    biografi:
+      "adalah ilmuwan asal Inggris yang mengembangkan teori evolusi melalui seleksi alam. Ia bekerja secara mandiri, mengumpulkan data secara detail, dan menulis karya On the Origin of Species. Darwin berfokus pada kemajuan ilmiah untuk kepentingan pemahaman manusia tentang kehidupan dan alam.",
+    url: "./image/19.jpeg",
+  },
+  "pria-sendiri-inovasi-detail-arahan-umum": {
+    nomor: 20,
+    nama: "Nikolaus Copernicus",
+    biografi:
+      "adalah astronom asal Polandia yang mengemukakan teori heliosentris, yang menyatakan bahwa matahari adalah pusat tata surya. Ia sering bekerja sendirian dan melakukan analisis mendalam tentang gerakan planet. Copernicus menentang pandangan geosentris yang sudah diterima luas dan memberikan kontribusi besar bagi perkembangan ilmu astronomi demi kepentingan umum.",
+    url: "./image/20.jpeg",
+  },
+  "pria-sendiri-inovasi-spontan-memimpin-kelompok": {
+    nomor: 21,
+    nama: "Julius Caesar",
+    biografi:
+      "adalah pemimpin militer dan politik Romawi yang membawa perubahan besar dalam sejarah Roma. Ia terkenal karena menaklukkan Galia, mengakhiri Republik Romawi, dan memulai era Kekaisaran. Sebagai diktator, ia memperkenalkan reformasi besar, tetapi pemerintahannya berakhir dengan pembunuhan oleh para senator yang merasa terancam oleh kekuasaannya.",
+    url: "./image/21.jpeg",
+  },
+  "pria-sendiri-inovasi-spontan-memimpin-umum": {
+    nomor: 22,
+    nama: "Edgar Allan Poe",
+    biografi:
+      "adalah Penulis Amerika yang terkenal dengan cerpen horor dan misterinya. Poe dianggap sebagai salah satu pendiri genre detektif modern. Ia memiliki kehidupan yang penuh misteri dan tragis, yang terrefleksi dalam karya-karyanya.",
+    url: "./image/22.jpeg",
+  },
   "wanita-sosial-inovasi-detail-memimpin-kelompok": {
     nomor: 33,
     nama: "Marie Curie",
