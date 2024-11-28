@@ -266,7 +266,7 @@ document.getElementById("share-wa").addEventListener("click", () => {
   html2canvas(card).then((canvas) => {
     const imageUrl =
       "https://th.bing.com/th/id/OIG2.6u_cj9JZPZfLx4fJDB3Q?w=1024&h=1024&rs=1&pid=ImgDetMain";
-    const message = `Check this image${imageUrl}`;
+    const message = `Check this image ${imageUrl}`;
     const whatsappUrl = `https://wa.me/?text=${encodeURIComponent(message)}`;
 
     // Buka link di jendela baru
