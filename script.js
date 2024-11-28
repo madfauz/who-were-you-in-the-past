@@ -8,6 +8,7 @@ const question = document.getElementById("soal");
 const btnMulai = document.getElementById("button-mulai");
 const btn1 = document.getElementById("button-1");
 const btn2 = document.getElementById("button-2");
+const btnDownload = document.getElementById("button-download");
 const hasil = document.getElementById("hasil");
 const deskripsi = document.getElementById("deskripsi");
 const bar = document.getElementById("bar");
@@ -188,6 +189,7 @@ btn1.addEventListener("click", () => {
         containerLoading.style.display = "none";
         containerHasil.style.display = "flex";
         card.style.backgroundImage = `url(${dataHasil[score].url})`;
+        btnDownload.style.display = "block";
       }, 3000);
     }, 100);
   }
@@ -218,6 +220,7 @@ btn2.addEventListener("click", () => {
         containerLoading.style.display = "none";
         containerHasil.style.display = "flex";
         card.style.backgroundImage = `url(${dataHasil[score].url})`;
+        btnDownload.style.display = "block";
       }, 3000);
     }, 100);
   }
@@ -250,9 +253,9 @@ card.addEventListener("touchend", () => {
   card.style.transform = `perspective(1000px) rotateX(0deg) rotateY(0deg)`;
 });
 
-// Share kartu =========================
+// Download kartu =========================
 
-document.getElementById("share-wa").addEventListener("click", () => {
+document.getElementById("button-download").addEventListener("click", () => {
   html2canvas(document.getElementById("card")).then((canvas) => {
     const link = document.createElement("a");
     link.download = "card.png"; // Nama file
