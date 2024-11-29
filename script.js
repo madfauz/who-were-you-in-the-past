@@ -4,11 +4,13 @@ const containerHome = document.getElementById("container-home");
 const containerSoal = document.getElementById("container-soal");
 const containerLoading = document.getElementById("container-loading");
 const containerHasil = document.getElementById("container-hasil");
+const containerEndButton = document.getElementById("container-button-end");
 const question = document.getElementById("soal");
 const btnMulai = document.getElementById("button-mulai");
 const btn1 = document.getElementById("button-1");
 const btn2 = document.getElementById("button-2");
 const btnDownload = document.getElementById("button-download");
+const btnRestart = document.getElementById("button-restart");
 const hasil = document.getElementById("hasil");
 const deskripsi = document.getElementById("deskripsi");
 const bar = document.getElementById("bar");
@@ -298,6 +300,118 @@ const dataHasil = {
       "adalah Ratu Mesir yang terkenal karena kemampuannya dalam membina hubungan diplomatik dan berinovasi dalam pemerintahan. Sebagai pemimpin, ia menjalankan strategi dengan cermat dan berjiwa pemimpin, selalu memprioritaskan kesejahteraan Mesir dan kepentingan rakyatnya dalam menghadapi tantangan politik dan militer.",
     url: "./image/34.jpeg",
   },
+  "wanita-sosial-inovasi-detail-arahan-kelompok": {
+    nomor: 35,
+    nama: "Queen Elizabeth I",
+    biografi:
+      "adalah Ratu Inggris yang ahli bersosialisasi dan berinovasi dalam pemerintahan. Ia memperhatikan detail kebijakan, mengikuti nasihat penasihatnya, dan selalu memprioritaskan kepentingan Inggris serta stabilitas negaranya.",
+    url: "./image/35.jpeg",
+  },
+  "wanita-sosial-inovasi-detail-arahan-umum": {
+    nomor: 36,
+    nama: "Hypatia dari Alexandria",
+    biografi:
+      "adalah ilmuwan dan filsuf yang terkenal karena inovasinya dalam matematika dan astronomi. Ia mengajarkan ilmu pengetahuan secara terbuka, memimpin sekolah filsafat, dan selalu mementingkan kepentingan umum dengan berbagi pengetahuan kepada masyarakat.",
+    url: "./image/36.jpeg",
+  },
+  "wanita-sosial-inovasi-spontan-memimpin-kelompok": {
+    nomor: 37,
+    nama: "Joan of Arc",
+    biografi:
+      "adalah pahlawan Perancis, ia dikenal karena keberaniannya dalam memimpin pasukan untuk melawan Inggris selama Perang Seratus Tahun. Joan berjiwa pemimpin, membuat keputusan spontan di medan perang, dan berinovasi dalam taktik militer. Ia juga aktif bersosialisasi dengan para pemimpin dan mementingkan kepentingan Perancis serta rakyatnya.",
+    url: "./image/37.jpeg",
+  },
+  "wanita-sosial-inovasi-spontan-memimpin-umum": {
+    nomor: 38,
+    nama: "Catherine the Great",
+    biografi:
+      "adalah Ratu Rusia yang terkenal karena inovasi dalam pemerintahan, kepemimpinan yang kuat, dan memperkenalkan reformasi. Ia juga aktif bersosialisasi dengan pemimpin Eropa dan mementingkan kepentingan umum melalui pendidikan dan modernisasi Rusia.",
+    url: "./image/38.jpeg",
+  },
+  "wanita-sosial-inovasi-spontan-arahan-kelompok": {
+    nomor: 39,
+    nama: "Queen Victoria",
+    biografi:
+      "adalah Ratu Inggris, ia terkenal karena bersosialisasi dengan banyak pemimpin dunia, serta memimpin dengan bijaksana dan inovatif. Queen Victoria mengikuti arahan dari penasihatnya dan berfokus pada kepentingan Inggris, terutama dalam memperkuat Kekaisaran Inggris dan kesejahteraan rakyatnya selama era Victoria.",
+    url: "./image/39.jpeg",
+  },
+  "wanita-sosial-inovasi-spontan-arahan-umum": {
+    nomor: 40,
+    nama: "Florence Nightingale",
+    biografi:
+      "adalah pelopor keperawatan modern yang dikenal karena inovasinya dalam sistem perawatan kesehatan. Ia berjiwa pemimpin, mengambil tindakan spontan untuk memperbaiki kondisi rumah sakit, dan selalu mementingkan kepentingan umum dengan meningkatkan standar perawatan dan menyelamatkan nyawa.",
+    url: "./image/40.jpeg",
+  },
+  "wanita-sosial-rutinitas-detail-memimpin-kelompok": {
+    nomor: 41,
+    nama: "Rosalind Franklin",
+    biografi:
+      "adalah seorang ilmuwan Inggris yang berkontribusi besar dalam penemuan struktur DNA. Ia lahir di London dan menunjukkan minat pada sains sejak kecil. Setelah menyelesaikan pendidikan di bidang kimia fisik, Franklin bekerja di berbagai laboratorium, termasuk di Paris, di mana ia mengembangkan keahlian dalam kristalografi sinar-X.",
+    url: "./image/41.jpeg",
+  },
+  "wanita-sosial-rutinitas-detail-memimpin-umum": {
+    nomor: 42,
+    nama: "Jane Austen",
+    biografi:
+      "adalah novelis Inggris yang terkenal dengan karya seperti Pride and Prejudice dan Sense and Sensibility. Lahir di Hampshire, ia menulis tentang cinta, pernikahan, dan kehidupan sosial dengan humor halus dan kritik tajam. Karya-karyanya kini dianggap klasik sastra dunia.",
+    url: "./image/42.jpeg",
+  },
+  "wanita-sosial-rutinitas-detail-arahan-kelompok": {
+    nomor: 43,
+    nama: "Lise Meitner",
+    biografi:
+      "adalah fisikawan Austria-Swedia yang berkontribusi pada penemuan fisi nuklir. Ia bekerja sama dengan Otto Hahn, tetapi tidak menerima Nobel bersamanya. Sebagai wanita Yahudi, ia melarikan diri dari Nazi Jerman. Meitner dihormati dengan elemen meitnerium yang dinamai untuknya.",
+    url: "./image/43.jpeg",
+  },
+  "wanita-sosial-rutinitas-detail-arahan-umum": {
+    nomor: 44,
+    nama: "Raden Adjeng Kartini",
+    biografi:
+      "adalah tokoh emansipasi perempuan Indonesia. Lahir di Jepara, ia memperjuangkan hak pendidikan dan kesetaraan bagi perempuan melalui surat-suratnya yang kemudian dibukukan sebagai Habis Gelap Terbitlah Terang. Kartini menjadi simbol perjuangan perempuan Indonesia dan diperingati setiap 21 April.",
+    url: "./image/44.jpeg",
+  },
+  "wanita-sosial-rutinitas-spontan-memimpin-kelompok": {
+    nomor: 45,
+    nama: "Boudica",
+    biografi:
+      "adalah ratu suku Iceni di Inggris kuno yang memimpin pemberontakan besar melawan Kekaisaran Romawi. Dikenal karena keberaniannya, ia hampir berhasil menggulingkan kekuasaan Romawi sebelum akhirnya dikalahkan. Boudica menjadi simbol perlawanan dan kebebasan di Britania Raya.",
+    url: "./image/45.jpeg",
+  },
+  "wanita-sosial-rutinitas-spontan-memimpin-umum": {
+    nomor: 46,
+    nama: "Wu Zetian",
+    biografi:
+      "adalah satu-satunya kaisar perempuan dalam sejarah Tiongkok, memerintah Dinasti Tang. Cerdas dan ambisius, ia memperluas kekuasaan kerajaan, memperkuat birokrasi, dan mendukung budaya serta inovasi. Pemerintahannya kontroversial tetapi membawa stabilitas dan kemajuan signifikan sebelum berakhir pada 705 M.",
+    url: "./image/46.jpeg",
+  },
+  "wanita-sosial-rutinitas-spontan-arahan-kelompok": {
+    nomor: 47,
+    nama: "Hildegard von Bingen",
+    biografi:
+      "adalah seorang biarawati Jerman, teolog, komponis, dan ilmuwan. Ia dikenal sebagai pelopor musik sakral, penulis teks medis, dan mistikus. Hildegard memimpin Biara Rupertsberg dan meninggalkan warisan intelektual serta spiritual yang luar biasa, menjadikannya salah satu tokoh perempuan paling berpengaruh di Abad Pertengahan.",
+    url: "./image/47.jpeg",
+  },
+  "wanita-sosial-rutinitas-spontan-arahan-umum": {
+    nomor: 48,
+    nama: "Ada Lovelace",
+    biografi:
+      "adalah matematikawan Inggris yang dikenal sebagai programmer komputer pertama di dunia. Ia bekerja dengan Charles Babbage pada mesin analitik dan menciptakan algoritma untuk mesin tersebut. Putri penyair Lord Byron, Lovelace menggabungkan matematika dan imajinasi, meletakkan dasar bagi pengembangan komputasi modern.",
+    url: "./image/48.jpeg",
+  },
+  "wanita-sendiri-inovasi-detail-memimpin-kelompok": {
+    nomor: 49,
+    nama: "Ada Lovelace",
+    biografi:
+      'adalah pelopor komputer asal Amerika, pencipta compiler pertama, dan pengembang bahasa pemrograman COBOL. Sebagai laksamana di Angkatan Laut AS, ia memimpin inovasi teknologi komputer. Dijuluki "Queen of Code," Hopper berperan besar dalam membangun fondasi ilmu komputer modern.',
+    url: "./image/49.jpeg",
+  },
+  "wanita-sendiri-inovasi-detail-memimpin-umum": {
+    nomor: 50,
+    nama: "Sappho",
+    biografi:
+      "adalah penyair Yunani kuno asal Lesbos, terkenal dengan puisi-puisi liris yang menggambarkan cinta, kecantikan, dan emosi manusia. Karya-karyanya, yang sebagian besar hilang, memengaruhi sastra dan budaya, menjadikannya salah satu tokoh besar dalam sastra dunia klasik.",
+    url: "./image/50.jpeg",
+  },
 };
 
 let score = "";
@@ -308,8 +422,6 @@ btn1.innerHTML = questions[nomor].choice1;
 btn2.innerHTML = questions[nomor].choice2;
 
 card.style.backgroundImage = "url('./image/home.jpg')";
-
-// card.style.backgroundImage = "url('./image/whiteboard5.jpeg')";
 
 btnMulai.addEventListener("click", () => {
   title.innerHTML = "Pilih yang sesuai dengan diri kamu";
@@ -343,7 +455,7 @@ btn1.addEventListener("click", () => {
         containerLoading.style.display = "none";
         containerHasil.style.display = "flex";
         card.style.backgroundImage = `url(${dataHasil[score].url})`;
-        btnDownload.style.display = "block";
+        containerEndButton.style.display = "flex";
       }, 3000);
     }, 100);
   }
@@ -374,7 +486,7 @@ btn2.addEventListener("click", () => {
         containerLoading.style.display = "none";
         containerHasil.style.display = "flex";
         card.style.backgroundImage = `url(${dataHasil[score].url})`;
-        btnDownload.style.display = "block";
+        containerEndButton.style.display = "flex";
       }, 3000);
     }, 100);
   }
@@ -407,7 +519,7 @@ card.addEventListener("touchend", () => {
   card.style.transform = `perspective(1000px) rotateX(0deg) rotateY(0deg)`;
 });
 
-// Download kartu =========================
+// Button download restart kartu =========================
 
 document.getElementById("button-download").addEventListener("click", () => {
   html2canvas(document.getElementById("card")).then((canvas) => {
@@ -417,4 +529,8 @@ document.getElementById("button-download").addEventListener("click", () => {
     link.click(); // Simpan file lokal
     alert("Sekarang unggah file ini secara manual ke Instagram!");
   });
+});
+
+document.getElementById("button-restart").addEventListener("click", () => {
+  location.reload();
 });
