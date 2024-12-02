@@ -66,7 +66,7 @@ const dataHasil = {
     nomor: 1,
     nama: "Leonardo da Vinci",
     biografi:
-      "adalah seorang seniman, ilmuwan, dan polymath Italia yang terkenal karena karya-karya seperti Mona Lisa dan The Last Supper. Selain seni, ia melakukan inovasi dalam bidang anatomi, teknik, dan aerodinamika. Da Vinci menggabungkan seni dan sains, menggambar berbagai penemuan dan alat yang belum terwujud pada masanya. Kejeniusan dan pencapaiannya menjadikannya salah satu tokoh terbesar dalam sejarah Renaisans.",
+      "Leonardo da Vinci (1452–1519) adalah seorang seniman, ilmuwan, dan penemu Italia, terkenal dengan karya seperti Mona Lisa dan The Last Supper. Dikenal karena kecerdasan dan penemuan-penemuannya di berbagai bidang, da Vinci dianggap salah satu jenius terbesar dalam sejarah manusia.",
     url: "./image/1.jpeg",
   },
   "pria-sosial-inovasi-detail-memimpin-umum": {
@@ -412,6 +412,104 @@ const dataHasil = {
       "adalah penyair Yunani kuno asal Lesbos, terkenal dengan puisi-puisi liris yang menggambarkan cinta, kecantikan, dan emosi manusia. Karya-karyanya, yang sebagian besar hilang, memengaruhi sastra dan budaya, menjadikannya salah satu tokoh besar dalam sastra dunia klasik.",
     url: "./image/50.jpeg",
   },
+  "wanita-sendiri-inovasi-detail-arahan-kelompok": {
+    nomor: 51,
+    nama: "Aspasia",
+    biografi:
+      "adalah seorang intelektual dan orator dari Miletos, Yunani Kuno, yang terkenal di Athena sebagai pasangan Perikles. Ia dikenal karena kecerdasannya, pengaruh politiknya, dan kontribusinya dalam budaya Athena, meski menghadapi kritik karena perannya sebagai wanita dalam ranah publik.",
+    url: "./image/51.jpeg",
+  },
+  "wanita-sendiri-inovasi-detail-arahan-umum": {
+    nomor: 52,
+    nama: "Mary Cassatt",
+    biografi:
+      "adalah seorang pelukis dan pembuat grafis asal Amerika yang dikenal karena karyanya tentang kehidupan wanita, terutama hubungan ibu dan anak. Sebagai anggota kelompok impresionis di Prancis, ia menggunakan warna cerah dan teknik inovatif yang menjadikannya salah satu seniman wanita terkemuka abad ke-19.",
+    url: "./image/52.jpeg",
+  },
+  "wanita-sendiri-inovasi-spontan-memimpin-kelompok": {
+    nomor: 53,
+    nama: "Rabi'ah al-Adawiyah",
+    biografi:
+      "adalah sufi wanita terkenal dari Basra, Irak. Ia dikenal karena ajarannya tentang cinta tulus kepada Allah tanpa pamrih, menekankan ibadah berdasarkan cinta, bukan takut atau harapan pahala. Hidupnya penuh kesederhanaan dan spiritualitas, menjadikannya ikon tasawuf dalam Islam.",
+    url: "./image/53.jpeg",
+  },
+  "wanita-sendiri-inovasi-spontan-memimpin-umum": {
+    nomor: 54,
+    nama: "Frida Kahlo",
+    biografi:
+      "adalah pelukis Meksiko terkenal yang dikenal karena potret dirinya yang menggambarkan rasa sakit dan identitasnya. Mengalami kecelakaan parah pada usia 18 tahun, ia menyalurkan emosinya melalui seni. Kahlo menjadi ikon feminisme dan budaya Meksiko.",
+    url: "./image/54.jpeg",
+  },
+  "wanita-sendiri-inovasi-spontan-arahan-kelompok": {
+    nomor: 55,
+    nama: "Virginia Woolf",
+    biografi:
+      "adalah penulis dan feminis Inggris terkenal, pelopor aliran stream of consciousness. Karya utamanya meliputi Mrs. Dalloway dan To the Lighthouse. Woolf juga mendirikan Hogarth Press. Ia memperjuangkan hak perempuan dalam esainya A Room of One’s Own.",
+    url: "./image/55.jpeg",
+  },
+  "wanita-sendiri-inovasi-spontan-arahan-umum": {
+    nomor: 56,
+    nama: "Agatha Christie",
+    biografi:
+      'adalah penulis Inggris terkenal sebagai "Ratu Kejahatan" Ia menciptakan detektif ikonik seperti Hercule Poirot dan Miss Marple, dengan karya terkenal seperti Murder on the Orient Express. Dengan lebih dari 2 miliar buku terjual, Christie adalah salah satu penulis terlaris sepanjang masa.',
+    url: "./image/56.jpeg",
+  },
+  "wanita-sendiri-rutinitas-detail-memimpin-kelompok": {
+    nomor: 57,
+    nama: "Clara Schumann",
+    biografi:
+      "adalah pianis, komposer, dan guru musik Jerman terkenal. Istri komposer Robert Schumann, Clara memengaruhi musik romantik lewat karya dan penampilannya. Sebagai salah satu pianis terbaik zamannya, ia mempopulerkan musik suaminya dan komposer lain, sambil menciptakan komposisi yang dihargai hingga kini.",
+    url: "./image/57.jpeg",
+  },
+  "wanita-sendiri-rutinitas-detail-memimpin-umum": {
+    nomor: 58,
+    nama: "Artemisia Gentileschi",
+    biografi:
+      "adalah pelukis Barok Italia terkenal, dikenal karena karyanya yang dramatis dan penuh emosi, sering menggambarkan tokoh perempuan kuat. Sebagai salah satu pelukis wanita pertama yang diakui di era itu, ia menghadapi tantangan besar dalam dunia seni yang didominasi pria.",
+    url: "./image/58.jpeg",
+  },
+  "wanita-sendiri-rutinitas-detail-arahan-kelompok": {
+    nomor: 59,
+    nama: "Manuela Sáenz",
+    biografi:
+      'adalah seorang pejuang kemerdekaan Amerika Selatan dan pasangan Simon Bolívar. Lahir di Ekuador, ia mendukung perjuangan melawan penjajahan Spanyol, menjadi tokoh penting dalam revolusi. Dikenal sebagai "Pembebas Perempuan," ia memainkan peran strategis dan berani, termasuk menyelamatkan Bolívar dari upaya pembunuhan.',
+    url: "./image/59.jpeg",
+  },
+  "wanita-sendiri-rutinitas-detail-arahan-umum": {
+    nomor: 60,
+    nama: "Ratu Nefertiti",
+    biografi:
+      "adalah istri Firaun Akhenaten dan ibu tiri Tutankhamun. Dikenal karena kecantikannya, Nefertiti berperan penting dalam agama dan politik Mesir kuno, mendukung perubahan agama monoteistik yang dipimpin Akhenaten. Ia mungkin pernah memerintah sebagai firaun setelah kematian suaminya.",
+    url: "./image/60.jpeg",
+  },
+  "wanita-sendiri-rutinitas-spontan-memimpin-kelompok": {
+    nomor: 61,
+    nama: "Nellie Bly",
+    biografi:
+      "adalah jurnalis investigatif Amerika yang terkenal karena menyamar untuk mengungkap kondisi rumah sakit jiwa dalam Ten Days in a Mad-House dan perjalanan keliling dunia dalam waktu 72 hari. Ia menjadi pelopor jurnalisme investigatif dan hak-hak perempuan dalam bidang media.",
+    url: "./image/61.jpeg",
+  },
+  "wanita-sendiri-rutinitas-spontan-memimpin-umum": {
+    nomor: 62,
+    nama: "Murasaki Shikibu",
+    biografi:
+      "adalah penulis dan pujangga Jepang abad ke-11, terkenal sebagai penulis The Tale of Genji, novel pertama yang dianggap sebagai karya sastra panjang terbesar. Ia adalah seorang wanita istana di Heian dan berperan penting dalam perkembangan sastra Jepang klasik.",
+    url: "./image/62.jpeg",
+  },
+  "wanita-sendiri-rutinitas-spontan-arahan-kelompok": {
+    nomor: 63,
+    nama: "Tomoe Gozen",
+    biografi:
+      "adalah seorang samurai wanita Jepang terkenal pada abad ke-12, yang berjuang dalam Perang Genpei. Dikenal karena keahlian dalam bertempur, keberanian, dan kecantikan, ia menjadi simbol kekuatan wanita dalam sejarah Jepang. Perannya dalam perang membuatnya legendaris hingga saat ini.",
+    url: "./image/63.jpeg",
+  },
+  "wanita-sendiri-rutinitas-spontan-arahan-umum": {
+    nomor: 64,
+    nama: "Rumi",
+    biografi:
+      "adalah penyair dan mistikus Persia terkenal. Karyanya, terutama Masnavi, mengeksplorasi cinta, spiritualitas, dan koneksi dengan Tuhan. Sebagai pendiri aliran Mevlevi (Sufi Whirling Dervishes), Rumi menginspirasi banyak orang dengan ajaran cinta universal dan kedalaman spiritualnya.",
+    url: "./image/64.jpeg",
+  },
 };
 
 let score = "";
@@ -517,6 +615,12 @@ card.addEventListener("touchmove", (e) => {
 
 card.addEventListener("touchend", () => {
   card.style.transform = `perspective(1000px) rotateX(0deg) rotateY(0deg)`;
+});
+
+card.addEventListener("click", () => {
+  setTimeout(() => {
+    card.style.transform = `perspective(1000px) rotateX(0deg) rotateY(0deg)`;
+  }, 1000);
 });
 
 // Button download restart kartu =========================
