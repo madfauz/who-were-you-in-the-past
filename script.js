@@ -618,9 +618,8 @@ card.addEventListener("touchend", () => {
 });
 
 card.addEventListener("click", () => {
-  setTimeout(() => {
     card.style.transform = `perspective(1000px) rotateX(0deg) rotateY(0deg)`;
-  }, 1000);
+  
 });
 
 // Button download restart kartu =========================
