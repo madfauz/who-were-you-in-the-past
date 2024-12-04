@@ -1,11 +1,12 @@
 # 🕵️‍♂️ Who Were You in the Past - Mini Game
 
 ## 🎮 Description
-"Who Were You in the Past" is a fun mini game where users answer 6 personality-related questions. Based on their answers, the game matches them with a famous historical figure who shares similar traits. Discover which historical figure you resemble the most!
+"Who Were You in the Past" is a fun mini game where users answer 6 personality-related questions. Based on their answers, the game matches them with a famous historical figure who shares similar traits. Discover which of the 64 historical figures you resemble the most!
 
 ## ⚡ Features
 - **6 Personality Questions**: Answer 6 simple questions that help determine your personality.
 - **Personality Match**: Find out which historical figure's personality is most similar to yours.
+- **64 Historical Figures**: The game includes a variety of 64 famous historical figures from different eras and backgrounds.
 - **Detailed Results**: View a brief description of the matched historical figure.
 
 ## 🌐 Technologies
@@ -35,6 +36,4 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
-You can replace the `your-username` in the clone command with your actual GitHub username and link to the appropriate license file. The icons added are from Font Awesome, which helps make the README more visually appealing. 
-
-Let me know if you'd like any more tweaks!
+This version includes a reference to the 64 famous historical figures that users can potentially match with. You can replace `your-username` with your actual GitHub username. Let me know if you'd like any further adjustments!
