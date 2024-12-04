@@ -1,9 +1,9 @@
 # 🕵️‍♂️ Who Were You in the Past - Mini Game
 
-![](https://github.com/user-attachments/assets/76781097-4621-4d48-80f5-a8ac439c8d7c)
-
 ## 🎮 Description
 "Who Were You in the Past" is a fun mini game where users answer 6 personality-related questions. Based on their answers, the game matches them with a famous historical figure who shares similar traits. Discover which of the 64 historical figures you resemble the most!
+
+![](https://github.com/user-attachments/assets/76781097-4621-4d48-80f5-a8ac439c8d7c)
 
 ## ⚡ Features
 - **6 Personality Questions**: Answer 6 simple questions that help determine your personality.
