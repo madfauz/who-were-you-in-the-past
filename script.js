@@ -66,7 +66,7 @@ const dataHasil = {
     nomor: 1,
     nama: "Leonardo da Vinci",
     biografi:
-      "Leonardo da Vinci (1452–1519) adalah seorang seniman, ilmuwan, dan penemu Italia, terkenal dengan karya seperti Mona Lisa dan The Last Supper. Dikenal karena kecerdasan dan penemuan-penemuannya di berbagai bidang, da Vinci dianggap salah satu jenius terbesar dalam sejarah manusia.",
+      "adalah seorang seniman, ilmuwan, dan penemu Italia, terkenal dengan karya seperti Mona Lisa dan The Last Supper. Dikenal karena kecerdasan dan penemuan-penemuannya di berbagai bidang, da Vinci dianggap salah satu jenius terbesar dalam sejarah manusia.",
     url: "./image/1.jpeg",
   },
   "pria-sosial-inovasi-detail-memimpin-umum": {
@@ -101,28 +101,28 @@ const dataHasil = {
     nomor: 6,
     nama: "Genghis Khan",
     biografi:
-      "adalah pemimpin Mongol yang dikenal karena inovasi dalam taktik militer dan organisasi pasukan. Ia memiliki jiwa pemimpin yang kuat, sering membuat keputusan spontan, dan memimpin untuk memperluas kekaisarannya serta mendukung perdagangan dan pemerintahan efisien di wilayah yang dikuasainya.",
+      "adalah pendiri Kekaisaran Mongol, kekaisaran terbesar dalam sejarah. Lahir sebagai Temüjin, ia menyatukan suku-suku Mongol dan menaklukkan sebagian besar Asia serta Eropa Timur. Dikenal karena strategi militernya, ia merevolusi perang dan menyebarkan budaya serta perdagangan di Jalur Sutra.",
     url: "./image/6.jpeg",
   },
   "pria-sosial-inovasi-spontan-arahan-kelompok": {
     nomor: 7,
     nama: "Benedict Arnold",
     biografi:
-      "adalah jenderal Amerika yang awalnya terkenal karena inovasinya dalam strategi militer dan kepemimpinan selama Perang Kemerdekaan. Ia sering bersosialisasi dengan pemimpin militer, membuat keputusan spontan di medan perang, dan mementingkan kepentingan perjuangan kemerdekaan Amerika. Namun, karena merasa diabaikan dan kecewa, ia akhirnya berkhianat dan bergabung dengan Inggris, memperjuangkan kepentingan mereka selama perang.",
+      "adalah jenderal Amerika dalam Perang Revolusi yang dikenal karena berpindah pihak ke Inggris. Awalnya berjasa dalam kemenangan Amerika, ia kemudian berkhianat karena merasa tidak dihargai. Pengkhianatannya menjadikannya simbol pengkhianatan dalam sejarah Amerika.",
     url: "./image/7.jpeg",
   },
   "pria-sosial-inovasi-spontan-arahan-umum": {
     nomor: 8,
     nama: "Galileo Galilei",
     biografi:
-      "adalah ilmuwan dan astronom yang terkenal karena inovasinya, seperti penemuan teleskop. Ia sering bersosialisasi dengan ilmuwan lain, membuat keputusan spontan dalam penelitiannya, dan memimpin dalam memperkenalkan teori heliosentris. Galileo berfokus pada kepentingan umum dengan menyebarkan pengetahuan ilmiah yang mendasari revolusi ilmiah.",
+      'adalah ilmuwan Italia, "Bapak Astronomi Modern," yang memelopori teleskop untuk mengamati langit. Ia mendukung teori heliosentris Copernicus, yang menempatkannya dalam konflik dengan Gereja. Penemuan pentingnya meliputi bulan Jupiter dan hukum gerak. Galileo meninggal dalam tahanan rumah di Arcetri.',
     url: "./image/8.jpeg",
   },
   "pria-sosial-rutinitas-detail-memimpin-kelompok": {
     nomor: 9,
     nama: "King David",
     biografi:
-      "adalah Raja Israel yang terkenal karena kepemimpinan dan keberaniannya dalam memimpin pasukan Israel. Ia memperluas wilayah kerajaannya dan dianggap sebagai pemimpin yang bijaksana, berani, dan perhatian terhadap rakyatnya. David juga dikenal karena menulis banyak puisi dalam kitab Mazmur, dan ia memimpin dengan memprioritaskan kepentingan bangsa Israel.",
+      "adalah raja kedua Israel yang memerintah sekitar 1010–970 SM. Terkenal sebagai gembala muda yang mengalahkan Goliath, ia menjadi pemimpin yang kuat dan penulis banyak Mazmur. Meski menghadapi konflik pribadi dan politik, pemerintahannya memperkuat Israel. Ia dihormati sebagai figur penting dalam tradisi Yahudi, Kristen, dan Islam.",
     url: "./image/9.jpeg",
   },
   "pria-sosial-rutinitas-detail-memimpin-umum": {
@@ -143,70 +143,70 @@ const dataHasil = {
     nomor: 12,
     nama: "Imhotep",
     biografi:
-      "adalah tokoh Mesir kuno yang sesuai dengan deskripsi tersebut. Sebagai arsitek, dokter, dan penasihat Raja Djoser, Imhotep dikenal karena rutinitasnya dalam merancang proyek besar seperti Piramida Bertingkat di Saqqara dengan perhatian detail. Ia bekerja di bawah arahan Djoser dan mementingkan kepentingan umum melalui inovasi di bidang arsitektur, kedokteran, dan administrasi yang mendukung kemakmuran Mesir.",
+      "adalah arsitek, tabib, dan penasihat Raja Djoser dari Mesir kuno. Ia merancang Piramida Bertingkat di Saqqara, piramida pertama dalam sejarah. Dianggap sebagai dewa kebijaksanaan setelah kematiannya, Imhotep juga dikenal sebagai pelopor kedokteran dan penulisan hieroglif.",
     url: "./image/12.jpeg",
   },
   "pria-sosial-rutinitas-spontan-memimpin-kelompok": {
     nomor: 13,
     nama: "Attila the Hun",
     biografi:
-      "adalah pemimpin suku Hun yang terkenal karena kemampuannya bersosialisasi dengan sekutu dan pasukannya. Ia dikenal spontan dalam mengambil keputusan militer, memiliki jiwa pemimpin yang kuat, dan sangat mementingkan kepentingan kelompoknya, yaitu bangsa Hun. Attila memperluas wilayahnya dengan menaklukkan banyak bagian Eropa dan menanamkan pengaruh besar dalam sejarah Eropa kuno.",
+      'adalah pemimpin Kekaisaran Hun yang menakutkan di abad ke-5. Ia dikenal karena ekspansi militernya yang luas di Eropa, sering disebut "Cambuk Tuhan." Attila memimpin kampanye melawan Kekaisaran Romawi tetapi gagal menaklukkan Roma. Ia meninggal mendadak pada tahun 453.',
     url: "./image/13.jpeg",
   },
   "pria-sosial-rutinitas-spontan-memimpin-umum": {
     nomor: 14,
     nama: "Pericles",
     biografi:
-      "adalah pemimpin Athena kuno yang terkenal. Ia dikenal suka bersosialisasi, menjalankan rutinitas pemerintahan, dan bertindak spontan dalam situasi krisis. Sebagai pemimpin yang visioner, Pericles memprioritaskan kepentingan umum dengan memperluas demokrasi dan mendukung seni, budaya, serta pembangunan seperti Parthenon, menjadikan Athena pusat peradaban Yunani.",
+      "adalah pemimpin dan orator Athena selama Zaman Keemasan Yunani. Ia memperluas demokrasi, memimpin pembangunan Parthenon, dan memperkuat kekuatan laut Athena. Di bawah kepemimpinannya, Athena menjadi pusat seni, budaya, dan filsafat. Pericles meninggal akibat wabah yang melanda Athena selama Perang Peloponnesos.",
     url: "./image/14.jpeg",
   },
   "pria-sosial-rutinitas-spontan-arahan-kelompok": {
     nomor: 15,
     nama: "Zhuge Liang",
     biografi:
-      "seorang ahli strategi militer dan negarawan dari Tiongkok kuno, adalah tokoh yang cocok. Ia bersosialisasi dengan para pejabat dan rakyat, menjalankan rutinitas perencanaan dengan cermat, tetapi juga mampu bertindak spontan dalam situasi krisis. Sebagai penasihat utama Liu Bei dari negara Shu Han, Zhuge Liang mementingkan kepentingan kelompok dengan memberikan kontribusi besar dalam memperkuat kekuasaan Shu selama era Tiga Kerajaan.",
+      'adalah ahli strategi militer, negarawan, dan penasihat Shu Han selama Tiga Kerajaan di Tiongkok. Dikenal sebagai "Naga Tidur," ia terkenal karena kecerdasannya dalam taktik perang dan inovasi seperti repeating crossbow. Zhuge Liang melambangkan kebijaksanaan dan loyalitas dalam sejarah dan sastra Tiongkok.',
     url: "./image/15.jpeg",
   },
   "pria-sosial-rutinitas-spontan-arahan-umum": {
     nomor: 16,
     nama: "William Wallace",
     biografi:
-      "adalah tokoh Skotlandia terkenal yang memimpin perlawanan melawan Inggris. Ia bersosialisasi dengan rakyat dan para pejuang, menjalankan rutinitas perang gerilya, dan bertindak spontan dalam strategi melawan pasukan yang lebih besar. Wallace mengikuti arahan pemimpin Skotlandia untuk membebaskan tanah airnya dan mementingkan kepentingan umum dengan memperjuangkan kemerdekaan Skotlandia hingga akhir hayatnya.",
+      "adalah pemimpin Skotlandia yang memimpin perlawanan melawan Inggris selama Perang Kemerdekaan Skotlandia. Dikenal karena kemenangan di Pertempuran Stirling Bridge (1297), ia menjadi simbol perjuangan kemerdekaan Skotlandia. Wallace akhirnya ditangkap dan dieksekusi oleh Inggris pada 1305.",
     url: "./image/16.jpeg",
   },
   "pria-sendiri-inovasi-detail-memimpin-kelompok": {
     nomor: 17,
     nama: "Niccolò Machiavelli",
     biografi:
-      "adalah filsuf, penulis, dan negarawan Italia yang sesuai dengan deskripsi ini. Ia sering bekerja secara mandiri, menciptakan inovasi dalam teori politik dengan pendekatan pragmatis. Machiavelli memperhatikan detail dalam karyanya, seperti The Prince, yang membahas strategi kepemimpinan. Sebagai pejabat Republik Florence, ia berjiwa pemimpin dan mementingkan kepentingan negara serta stabilitas kelompok penguasanya.",
+      "adalah seorang filsuf dan politisi Italia, terkenal dengan karya The Prince, yang membahas kekuasaan dan strategi politik. Ia menekankan pragmatisme dan realisme dalam pemerintahan. Machiavelli dianggap sebagai bapak ilmu politik modern, meski sering dipandang kontroversial karena pandangannya yang tajam",
     url: "./image/17.jpeg",
   },
   "pria-sendiri-inovasi-detail-memimpin-umum": {
     nomor: 18,
     nama: "Albert Einstein",
     biografi:
-      "adalah seorang ilmuwan terkemuka, Einstein dikenal sebagai pribadi yang lebih suka menyendiri untuk berpikir dan mengembangkan ide-ide inovatif. Ia sangat berfokus pada inovasi dalam bidang fisika, menghasilkan teori relativitas yang mengubah cara kita memahami alam semesta.",
+      "adalah fisikawan teoretis asal Jerman, terkenal dengan teori relativitas. Ia memenangkan Hadiah Nobel Fisika 1921 dan mengubah pemahaman kita tentang ruang, waktu, dan gravitasi. Einstein juga aktif dalam politik dan filantropi, mendukung perdamaian dan hak asasi manusia.",
     url: "./image/18.jpeg",
   },
   "pria-sendiri-inovasi-detail-arahan-kelompok": {
     nomor: 19,
     nama: "Charles Darwin",
     biografi:
-      "adalah ilmuwan asal Inggris yang mengembangkan teori evolusi melalui seleksi alam. Ia bekerja secara mandiri, mengumpulkan data secara detail, dan menulis karya On the Origin of Species. Darwin berfokus pada kemajuan ilmiah untuk kepentingan pemahaman manusia tentang kehidupan dan alam.",
+      "adalah ilmuwan Inggris yang mengembangkan teori evolusi melalui seleksi alam. Karyanya, On the Origin of Species (1859), mengubah pemahaman tentang kehidupan dan spesies. Darwin dianggap sebagai salah satu tokoh paling berpengaruh dalam biologi dan ilmu pengetahuan.",
     url: "./image/19.jpeg",
   },
   "pria-sendiri-inovasi-detail-arahan-umum": {
     nomor: 20,
     nama: "Nikolaus Copernicus",
     biografi:
-      "adalah astronom asal Polandia yang mengemukakan teori heliosentris, yang menyatakan bahwa matahari adalah pusat tata surya. Ia sering bekerja sendirian dan melakukan analisis mendalam tentang gerakan planet. Copernicus menentang pandangan geosentris yang sudah diterima luas dan memberikan kontribusi besar bagi perkembangan ilmu astronomi demi kepentingan umum.",
+      "adalah astronom asal Polandia yang mengemukakan teori heliosentris, yang menyatakan bahwa Bumi mengelilingi Matahari, bukan sebaliknya. Teori ini mengubah pemahaman tentang tata surya dan memulai revolusi ilmiah. Copernicus meninggal di Toruń, Polandia, pada 1543.",
     url: "./image/20.jpeg",
   },
   "pria-sendiri-inovasi-spontan-memimpin-kelompok": {
     nomor: 21,
     nama: "Julius Caesar",
     biografi:
-      "adalah pemimpin militer dan politik Romawi yang membawa perubahan besar dalam sejarah Roma. Ia terkenal karena menaklukkan Galia, mengakhiri Republik Romawi, dan memulai era Kekaisaran. Sebagai diktator, ia memperkenalkan reformasi besar, tetapi pemerintahannya berakhir dengan pembunuhan oleh para senator yang merasa terancam oleh kekuasaannya.",
+      "adalah jenderal dan politisi Romawi yang memperluas Kekaisaran Romawi melalui penaklukan besar, termasuk Galia. Ia menjadi diktator seumur hidup, namun dibunuh oleh sekelompok senator pada 44 SM. Keberhasilannya mengubah sejarah Romawi dan memicu transisi menuju Kekaisaran.",
     url: "./image/21.jpeg",
   },
   "pria-sendiri-inovasi-spontan-memimpin-umum": {
@@ -234,119 +234,119 @@ const dataHasil = {
     nomor: 25,
     nama: "Isaac Newton",
     biografi:
-      "adalah seorang ilmuwan yang lebih memilih kesendirian, sangat disiplin dalam menjalani rutinitas, dan sangat memperhatikan detail dalam penelitiannya. Sebagai pemimpin dalam dunia sains, penemuannya yang monumental memengaruhi generasi mendatang dan memajukan ilmu pengetahuan untuk kepentingan umat manusia.",
+      "adalah ilmuwan Inggris terkenal yang mengembangkan teori gravitasi dan hukum gerak. Karyanya Philosophiæ Naturalis Principia Mathematica menjadi dasar fisika modern. Newton juga berkontribusi dalam matematika, menciptakan kalkulus. Ia dianggap salah satu ilmuwan terbesar dalam sejarah.",
     url: "./image/25.jpeg",
   },
   "pria-sendiri-rutinitas-detail-memimpin-umum": {
     nomor: 26,
     nama: "Alexander the Great",
     biografi:
-      "adalah tokoh yang sesuai dengan deskripsi tersebut. Ia dikenal sebagai pemimpin militer yang cerdas dan berjiwa pemimpin, sering menjalani rutinitas ketat dan memimpin pasukannya dengan detail. Meskipun sering berada di medan perang, ia juga dikenal dengan kemampuannya untuk memperluas dan menyatukan kerajaan demi kepentingan umum, termasuk penyebaran kebudayaan dan pengetahuan ke wilayah yang ia taklukkan.",
+      "adalah raja Makedonia yang menaklukkan sebagian besar dunia kuno, termasuk Persia, Mesir, dan India. Terkenal karena strategi militernya yang cemerlang, ia membentuk kerajaan terbesar di dunia pada masa itu, meninggal muda pada usia 32 tahun.",
     url: "./image/26.jpeg",
   },
   "pria-sendiri-rutinitas-detail-arahan-kelompok": {
     nomor: 27,
     nama: "Plato",
     biografi:
-      "adalah filsuf Yunani, Ia sering menyendiri untuk berpikir mendalam dan menjalankan rutinitas filosofis. Plato sangat memperhatikan detail dalam karyanya, seperti dalam dialog-dialognya yang mendalam. Ia mengikuti ajaran gurunya, Socrates, dan mementingkan kepentingan kelompok tertentu, terutama dalam membangun masyarakat ideal berdasarkan filosofi keadilan.",
+      "adalah filsuf Yunani kuno, murid Socrates, dan guru Aristoteles. Ia mendirikan Akademi di Athena, sekolah tertua di dunia Barat. Karyanya, termasuk Republik, membahas keadilan, pengetahuan, dan filosofi politik, memengaruhi pemikiran Barat selama berabad-abad.",
     url: "./image/27.jpeg",
   },
   "pria-sendiri-rutinitas-detail-arahan-umum": {
     nomor: 28,
     nama: "Carl Linnaeus",
     biografi:
-      "adalah Seorang ahli botani Swedia yang mengembangkan sistem klasifikasi makhluk hidup yang masih digunakan hingga kini. Linnaeus dikenal dengan ketelitiannya dalam mengidentifikasi dan mengklasifikasikan tanaman. Kehidupannya yang dihabiskan untuk mempelajari alam menunjukkan dedikasinya pada ilmu pengetahuan.",
+      'adalah ilmuwan Swedia yang dikenal sebagai "bapak taksonomi modern." Ia mengembangkan sistem klasifikasi biologis dengan memberi nama Latin pada spesies dan mengorganisasi makhluk hidup dalam hierarki, yang digunakan hingga saat ini.',
     url: "./image/28.jpeg",
   },
   "pria-sendiri-rutinitas-spontan-memimpin-kelompok": {
     nomor: 29,
     nama: "Leonidas I",
     biografi:
-      "adalah Raja Sparta yang terkenal karena kepemimpinannya dalam Pertempuran Thermopylae, di mana ia memimpin pasukannya dengan keberanian luar biasa. Ia menjalani rutinitas ketat dan selalu fokus pada strategi detail, meskipun terkadang harus membuat keputusan spontan. Leonidas berjiwa pemimpin yang kuat dan mementingkan kepentingan Sparta, bahkan mengorbankan nyawanya untuk mempertahankan kebebasan dan kehormatan negaranya.",
+      "adalah raja Sparta yang terkenal karena memimpin pasukannya dalam Pertempuran Thermopylae melawan pasukan Persia yang jauh lebih besar. Meskipun kalah, keberanian dan pengorbanannya menjadi simbol heroisme, keteguhan, dan perjuangan melawan penindasan dalam sejarah.",
     url: "./image/29.jpeg",
   },
   "pria-sendiri-rutinitas-spontan-memimpin-umum": {
     nomor: 30,
     nama: "Marcus Aurelius",
     biografi:
-      "adalah Kaisar Romawi yang juga seorang filsuf Stoik. Ia terkenal dengan kebiasaan menyendiri untuk bermeditasi, menjalani rutinitas yang disiplin, dan membuat keputusan spontan yang bijaksana. Sebagai pemimpin, ia mementingkan kepentingan umum, berfokus pada stabilitas dan kesejahteraan Romawi, serta menulis 'Meditations' untuk membagikan pemikirannya tentang kebajikan dan tanggung jawab.",
+      "adalah Kaisar Romawi dan filsuf Stoik. Dikenal dengan karya Meditations, yang berisi pemikiran tentang kebajikan dan pengendalian diri. Memerintah dari 161 hingga 180 M, ia terkenal karena kepemimpinan bijaksana dan kesederhanaannya, meskipun menghadapi peperangan dan tantangan dalam kekaisaran.",
     url: "./image/30.jpeg",
   },
   "pria-sendiri-rutinitas-spontan-arahan-kelompok": {
     nomor: 31,
     nama: "Hannibal Barca",
     biografi:
-      "adalah jenderal Carthage yang terkenal karena strategi militernya yang cemerlang dalam Perang Punic Kedua. Ia sering menyendiri untuk merencanakan taktik, menjalani rutinitas ketat, dan membuat keputusan spontan di medan perang. Hannibal mementingkan kepentingan Carthage dan pasukannya dalam melawan Roma, serta mengikuti arahan untuk mempertahankan negara dan menghancurkan musuh.",
+      "adalah jenderal Carthage yang terkenal karena memimpin pasukan dalam Perang Punisia Kedua melawan Roma. Ia terkenal dengan penyeberangan Alpen yang epik dan strategi militer cerdik, meskipun akhirnya kalah dalam Pertempuran Zama. Hannibal dianggap salah satu jenderal terbesar dalam sejarah.",
     url: "./image/31.jpeg",
   },
   "pria-sendiri-rutinitas-spontan-arahan-umum": {
     nomor: 32,
     nama: "Confucius",
     biografi:
-      "adalah filsuf Tiongkok yang menekankan pentingnya etika, hubungan sosial, dan pemerintahan yang adil. Ia dikenal menyendiri untuk merenung, menjalankan rutinitas dalam mengajarkan nilai-nilai moral, dan sering membuat keputusan spontan dalam situasi tertentu. Confucius mementingkan kepentingan umum dengan mengajarkan prinsip-prinsip kebajikan untuk menciptakan masyarakat yang harmonis.",
+      "adalah filsuf dan guru Tiongkok yang mengajarkan etika, moralitas, dan pentingnya hubungan sosial. Ajarannya, yang tertulis dalam Analects, menekankan kebajikan, rasa hormat, dan harmoni dalam masyarakat. Konsep-konsepnya mempengaruhi budaya Tiongkok dan dunia hingga saat ini.",
     url: "./image/32.jpeg",
   },
   "wanita-sosial-inovasi-detail-memimpin-kelompok": {
     nomor: 33,
     nama: "Marie Curie",
     biografi:
-      "adalah seorang ilmuwan inovatif yang tidak hanya berfokus pada penemuan, tetapi juga mementingkan kepentingan umum, terutama dalam bidang medis dan ilmiah. Kepemimpinannya dalam penelitian dan kolaborasi ilmiah menjadikannya salah satu tokoh wanita paling berpengaruh di dunia.",
+      "adalah ilmuwan Polandia-Prancis yang dikenal karena penemuan unsur radioaktif radium dan polonium. Ia adalah wanita pertama yang memenangkan Nobel, meraih Nobel Fisika dan Kimia, dan berkontribusi besar dalam pengembangan radiologi. Curie meninggal akibat paparan radiasi.",
     url: "./image/33.jpeg",
   },
   "wanita-sosial-inovasi-detail-memimpin-umum": {
     nomor: 34,
     nama: "Cleopatra VII",
     biografi:
-      "adalah Ratu Mesir yang terkenal karena kemampuannya dalam membina hubungan diplomatik dan berinovasi dalam pemerintahan. Sebagai pemimpin, ia menjalankan strategi dengan cermat dan berjiwa pemimpin, selalu memprioritaskan kesejahteraan Mesir dan kepentingan rakyatnya dalam menghadapi tantangan politik dan militer.",
+      "adalah Ratu Mesir terakhir dari dinasti Ptolemaic. Dikenal karena kecerdasan politik dan daya tariknya, ia menjalin hubungan dengan Julius Caesar dan Mark Antony. Setelah kekalahan di Perang Actium, Cleopatra bunuh diri, menandai akhir kerajaan Mesir kuno.",
     url: "./image/34.jpeg",
   },
   "wanita-sosial-inovasi-detail-arahan-kelompok": {
     nomor: 35,
     nama: "Queen Elizabeth I",
     biografi:
-      "adalah Ratu Inggris yang ahli bersosialisasi dan berinovasi dalam pemerintahan. Ia memperhatikan detail kebijakan, mengikuti nasihat penasihatnya, dan selalu memprioritaskan kepentingan Inggris serta stabilitas negaranya.",
+      'adalah Ratu Inggris yang memerintah dari 1558 hingga 1603. Terkenal karena memperkuat Inggris sebagai kekuatan maritim, menanggulangi ancaman Spanyol, dan mendukung kebangkitan seni, termasuk karya William Shakespeare. Era pemerintahannya dikenal sebagai "Zaman Elizabeth."',
     url: "./image/35.jpeg",
   },
   "wanita-sosial-inovasi-detail-arahan-umum": {
     nomor: 36,
     nama: "Hypatia dari Alexandria",
     biografi:
-      "adalah ilmuwan dan filsuf yang terkenal karena inovasinya dalam matematika dan astronomi. Ia mengajarkan ilmu pengetahuan secara terbuka, memimpin sekolah filsafat, dan selalu mementingkan kepentingan umum dengan berbagi pengetahuan kepada masyarakat.",
+      "adalah seorang filsuf, matematikawan, dan astronom terkenal di Mesir Kuno. Ia mengajar di Alexandria dan dikenal karena pengetahuan mendalamnya tentang ilmu pengetahuan. Hypatia menjadi simbol kecerdasan wanita, namun dibunuh oleh massa dalam kerusuhan agama.",
     url: "./image/36.jpeg",
   },
   "wanita-sosial-inovasi-spontan-memimpin-kelompok": {
     nomor: 37,
     nama: "Joan of Arc",
     biografi:
-      "adalah pahlawan Perancis, ia dikenal karena keberaniannya dalam memimpin pasukan untuk melawan Inggris selama Perang Seratus Tahun. Joan berjiwa pemimpin, membuat keputusan spontan di medan perang, dan berinovasi dalam taktik militer. Ia juga aktif bersosialisasi dengan para pemimpin dan mementingkan kepentingan Perancis serta rakyatnya.",
+      "adalah pahlawan nasional Prancis yang memimpin pasukan dalam Perang Seratus Tahun. Diyakini mendengar suara ilahi, ia membantu Raja Charles VII merebut takhta. Ditangkap, diadili sebagai heretik, dan dibakar hidup-hidup. Diakui sebagai santo oleh Gereja Katolik pada 1920.",
     url: "./image/37.jpeg",
   },
   "wanita-sosial-inovasi-spontan-memimpin-umum": {
     nomor: 38,
     nama: "Catherine the Great",
     biografi:
-      "adalah Ratu Rusia yang terkenal karena inovasi dalam pemerintahan, kepemimpinan yang kuat, dan memperkenalkan reformasi. Ia juga aktif bersosialisasi dengan pemimpin Eropa dan mementingkan kepentingan umum melalui pendidikan dan modernisasi Rusia.",
+      "adalah Kaisar Rusia yang memerintah dari 1762 hingga kematiannya. Lahir sebagai Putri Sophie dari Jerman, ia menikah dengan Tsar Peter III, lalu merebut tahta. Catherine dikenal karena reformasi, ekspansi wilayah, dan dukungannya terhadap seni serta pendidikan di Rusia.",
     url: "./image/38.jpeg",
   },
   "wanita-sosial-inovasi-spontan-arahan-kelompok": {
     nomor: 39,
     nama: "Queen Victoria",
     biografi:
-      "adalah Ratu Inggris, ia terkenal karena bersosialisasi dengan banyak pemimpin dunia, serta memimpin dengan bijaksana dan inovatif. Queen Victoria mengikuti arahan dari penasihatnya dan berfokus pada kepentingan Inggris, terutama dalam memperkuat Kekaisaran Inggris dan kesejahteraan rakyatnya selama era Victoria.",
+      "adalah Ratu Inggris dari 1837 hingga 1901, memerintah selama era Victoria yang menyaksikan kemajuan industri, kolonialisasi, dan perubahan sosial besar. Ia menikah dengan Pangeran Albert, memiliki sembilan anak, dan dikenal karena ketegasan serta pengaruhnya dalam membentuk monarki modern Inggris.",
     url: "./image/39.jpeg",
   },
   "wanita-sosial-inovasi-spontan-arahan-umum": {
     nomor: 40,
     nama: "Florence Nightingale",
     biografi:
-      "adalah pelopor keperawatan modern yang dikenal karena inovasinya dalam sistem perawatan kesehatan. Ia berjiwa pemimpin, mengambil tindakan spontan untuk memperbaiki kondisi rumah sakit, dan selalu mementingkan kepentingan umum dengan meningkatkan standar perawatan dan menyelamatkan nyawa.",
+      'adalah pelopor keperawatan modern asal Inggris. Dikenal karena upayanya memperbaiki kondisi rumah sakit selama Perang Krimea, ia mendirikan sekolah keperawatan pertama dan memperkenalkan standar kebersihan medis yang menyelamatkan banyak nyawa. Nightingale dihormati sebagai "Ibu Keperawatan".',
     url: "./image/40.jpeg",
   },
   "wanita-sosial-rutinitas-detail-memimpin-kelompok": {
     nomor: 41,
     nama: "Rosalind Franklin",
     biografi:
-      "adalah seorang ilmuwan Inggris yang berkontribusi besar dalam penemuan struktur DNA. Ia lahir di London dan menunjukkan minat pada sains sejak kecil. Setelah menyelesaikan pendidikan di bidang kimia fisik, Franklin bekerja di berbagai laboratorium, termasuk di Paris, di mana ia mengembangkan keahlian dalam kristalografi sinar-X.",
+      "adalah ahli kimia dan kristalografi Inggris yang berperan penting dalam penemuan struktur DNA. Foto X-ray yang dihasilkannya memberikan bukti kunci bagi pemahaman heliks ganda DNA. Sayangnya, kontribusinya baru dihargai setelah kematiannya.",
     url: "./image/41.jpeg",
   },
   "wanita-sosial-rutinitas-detail-memimpin-umum": {
@@ -618,8 +618,7 @@ card.addEventListener("touchend", () => {
 });
 
 card.addEventListener("click", () => {
-    card.style.transform = `perspective(1000px) rotateX(0deg) rotateY(0deg)`;
-  
+  card.style.transform = `perspective(1000px) rotateX(0deg) rotateY(0deg)`;
 });
 
 // Button download restart kartu =========================
