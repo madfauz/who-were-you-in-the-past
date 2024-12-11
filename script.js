@@ -158,7 +158,7 @@ const dataHasil = {
     nomor: 11,
     nama: "Marcus Vipsanius Agrippa",
     biografi:
-      "adalah jenderal Romawi yang setia kepada Kaisar Augustus. Ia merencanakan strategi militer dan pembangunan secara detail, membantu kemenangan besar seperti Pertempuran Actium, serta mementingkan kepentingan Kekaisaran Romawi.",
+      "adalah seorang jenderal dan politikus Romawi yang hidup pada masa kekuasaan Kaisar Augustus. Ia memainkan peran penting dalam pembangunan infrastruktur, seperti Colosseum dan kompleks Bath di Roma, serta membantu memperkuat dominasi kekaisaran di berbagai medan perang.",
     url: "./image/11.jpeg",
     jodoh: "Cerdas - Tegas - Berani",
     film: "The Last Duel - Twelve Strong",
@@ -266,7 +266,7 @@ const dataHasil = {
     nomor: 23,
     nama: "Socrates",
     biografi:
-      "adalah seorang filsuf Yunani yang terkenal dengan kebiasaan menyendiri, berinovasi dalam pemikiran, dan melakukan diskusi secara spontan. Ia mengikuti prinsip-prinsip kebijaksanaan dan mencari kebenaran, sambil mementingkan kepentingan masyarakat melalui pengajaran dan pemikiran kritis.",
+      "adalah filsuf Yunani kuno yang hidup sekitar 470–399 SM. Ia dikenal sebagai salah satu tokoh utama dalam sejarah filsafat Barat, dengan metode dialognya yang terkenal, yakni bertanya dan mendiskusikan kebenaran moral dan etika.",
     url: "./image/23.jpeg",
     jodoh: "Cerdas - Terbuka - Sabar",
     film: "12 Angry Men - I'm Thinking of Ending Things",
@@ -275,7 +275,7 @@ const dataHasil = {
     nomor: 24,
     nama: "Aristotle",
     biografi:
-      "adalah filsuf Yunani yang suka menyendiri, berinovasi dalam pemikiran, dan mengambil keputusan spontan. Ia mengikuti ajaran Plato dan mementingkan kepentingan umum melalui kontribusinya dalam ilmu pengetahuan dan etika.",
+      "adalah filsuf dan ilmuwan Yunani kuno yang mendalami berbagai bidang seperti logika, etika, politik, ilmu alam, dan metafisika. Ia adalah murid Plato dan guru Alexander Agung, serta dikenal dengan kontribusinya yang signifikan dalam pemikiran Barat.",
     url: "./image/24.jpeg",
     jodoh: "Rasional - Penuh Pertimbangan - Kritis",
     film: "The Man Who Knew Infinity - The Creator",
@@ -511,7 +511,7 @@ const dataHasil = {
     biografi:
       "adalah penyair Yunani kuno asal Lesbos, terkenal dengan puisi-puisi liris yang menggambarkan cinta, kecantikan, dan emosi manusia. Karya-karyanya, yang sebagian besar hilang, memengaruhi sastra dan budaya, menjadikannya salah satu tokoh besar dalam sastra dunia klasik.",
     url: "./image/50.jpeg",
-    jodoh: "",
+    jodoh: "Sabar - Tegas - Pemaaf",
     film: "Ammonite - Lady Bird",
   },
   "wanita-sendiri-inovasi-detail-arahan-kelompok": {
