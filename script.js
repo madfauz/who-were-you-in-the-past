@@ -764,7 +764,7 @@ document.getElementById("button-download").addEventListener("click", () => {
     link.download = "card.png"; // Nama file
     link.href = canvas.toDataURL("image/png"); // Konversi ke gambar
     link.click(); // Simpan file lokal
-    alert("Sekarang unggah file ini secara manual ke Instagram!");
+    alert("Kartu Berhasil Disimpan!");
   });
 });
 
