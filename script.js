@@ -11,6 +11,7 @@ const btn1 = document.getElementById("button-1");
 const btn2 = document.getElementById("button-2");
 const btnDownload = document.getElementById("button-download");
 const btnRestart = document.getElementById("button-restart");
+const btn3d = document.getElementById("button-3d");
 const hasil = document.getElementById("hasil");
 const deskripsi = document.getElementById("deskripsi");
 const jodoh = document.getElementById("jodoh");
@@ -686,7 +687,7 @@ btn1.addEventListener("click", () => {
         containerLoading.style.display = "none";
         containerHasil.style.display = "flex";
         card.style.backgroundImage = `url(${dataHasil[score].url})`;
-        containerEndButton.style.display = "flex";
+        btnRestart.classList.remove("hidden");
       }, 3000);
     }, 100);
   }
@@ -719,7 +720,7 @@ btn2.addEventListener("click", () => {
         containerLoading.style.display = "none";
         containerHasil.style.display = "flex";
         card.style.backgroundImage = `url(${dataHasil[score].url})`;
-        containerEndButton.style.display = "flex";
+        btnRestart.classList.remove("hidden");
       }, 3000);
     }, 100);
   }
@@ -728,15 +729,19 @@ btn2.addEventListener("click", () => {
 // Rotasi kartu ==========================
 
 card.addEventListener("mousemove", (e) => {
-  const x = e.pageX - card.offsetLeft - card.offsetWidth / 2;
-  const y = e.pageY - card.offsetTop - card.offsetHeight / 2;
-  card.style.transform = `perspective(1000px) rotateX(${
-    (y / 10) * -1 * 2
-  }deg) rotateY(${(x / 10) * 3}deg)`;
+  if (toggle3d) {
+    const x = e.pageX - card.offsetLeft - card.offsetWidth / 2;
+    const y = e.pageY - card.offsetTop - card.offsetHeight / 2;
+    card.style.transform = `perspective(1000px) rotateX(${
+      (y / 10) * -1 * 2
+    }deg) rotateY(${(x / 10) * 3}deg)`;
+  }
 });
 
 card.addEventListener("mouseleave", () => {
-  card.style.transform = `perspective(1000px) rotateX(0deg) rotateY(0deg)`;
+  if (toggle3d) {
+    card.style.transform = `perspective(1000px) rotateX(0deg) rotateY(0deg)`;
+  }
 });
 
 card.addEventListener("touchmove", (e) => {
@@ -757,6 +762,40 @@ card.addEventListener("click", () => {
 });
 
 // Button download restart kartu =========================
+
+let toggle3d = false;
+
+document.getElementById("button-3d").addEventListener("click", () => {
+  toggle3d = !toggle3d;
+
+  if (toggle3d) {
+    btn3d.classList.remove(
+      "bg-white",
+      "hover:bg-blue-600",
+      "text-black",
+      "hover:text-white"
+    );
+    btn3d.classList.add(
+      "bg-blue-600",
+      "hover:bg-white",
+      "text-white",
+      "hover:text-black"
+    );
+  } else {
+    btn3d.classList.remove(
+      "bg-blue-600",
+      "hover:bg-white",
+      "text-white",
+      "hover:text-black"
+    );
+    btn3d.classList.add(
+      "bg-white",
+      "hover:bg-blue-600",
+      "text-black",
+      "hover:text-white"
+    );
+  }
+});
 
 document.getElementById("button-download").addEventListener("click", () => {
   html2canvas(document.getElementById("card")).then((canvas) => {
