@@ -762,9 +762,7 @@ card.addEventListener("touchend", () => {
 });
 
 card.addEventListener("click", () => {
-  if (toggle3d) {
-    card.style.transform = `perspective(1000px) rotateX(0deg) rotateY(0deg)`;
-  }
+  card.style.transform = `perspective(1000px) rotateX(0deg) rotateY(0deg)`;
 });
 
 // Button download restart kartu =========================
