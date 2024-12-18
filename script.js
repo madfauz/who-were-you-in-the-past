@@ -773,31 +773,11 @@ document.getElementById("button-3d").addEventListener("click", () => {
   toggle3d = !toggle3d;
 
   if (toggle3d) {
-    btn3d.classList.remove(
-      "bg-white",
-      "hover:bg-blue-600",
-      "text-black",
-      "hover:text-white"
-    );
-    btn3d.classList.add(
-      "bg-blue-600",
-      "hover:bg-white",
-      "text-white",
-      "hover:text-black"
-    );
+    btn3d.classList.remove("bg-white", "text-black");
+    btn3d.classList.add("bg-blue-600", "text-white");
   } else {
-    btn3d.classList.remove(
-      "bg-blue-600",
-      "hover:bg-white",
-      "text-white",
-      "hover:text-black"
-    );
-    btn3d.classList.add(
-      "bg-white",
-      "hover:bg-blue-600",
-      "text-black",
-      "hover:text-white"
-    );
+    btn3d.classList.remove("bg-blue-600", "text-white");
+    btn3d.classList.add("bg-white", "text-black");
   }
 });
 
