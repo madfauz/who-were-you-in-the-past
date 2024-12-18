@@ -745,20 +745,26 @@ card.addEventListener("mouseleave", () => {
 });
 
 card.addEventListener("touchmove", (e) => {
-  const touch = e.touches[0];
-  const x = touch.pageX - card.offsetLeft - card.offsetWidth / 2;
-  const y = touch.pageY - card.offsetTop - card.offsetHeight / 2;
-  card.style.transform = `perspective(1000px) rotateX(${
-    (y / 10) * -1 * 2
-  }deg) rotateY(${(x / 10) * 3}deg)`;
+  if (toggle3d) {
+    const touch = e.touches[0];
+    const x = touch.pageX - card.offsetLeft - card.offsetWidth / 2;
+    const y = touch.pageY - card.offsetTop - card.offsetHeight / 2;
+    card.style.transform = `perspective(1000px) rotateX(${
+      (y / 10) * -1 * 2
+    }deg) rotateY(${(x / 10) * 3}deg)`;
+  }
 });
 
 card.addEventListener("touchend", () => {
-  card.style.transform = `perspective(1000px) rotateX(0deg) rotateY(0deg)`;
+  if (toggle3d) {
+    card.style.transform = `perspective(1000px) rotateX(0deg) rotateY(0deg)`;
+  }
 });
 
 card.addEventListener("click", () => {
-  card.style.transform = `perspective(1000px) rotateX(0deg) rotateY(0deg)`;
+  if (toggle3d) {
+    card.style.transform = `perspective(1000px) rotateX(0deg) rotateY(0deg)`;
+  }
 });
 
 // Button download restart kartu =========================
