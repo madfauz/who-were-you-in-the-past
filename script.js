@@ -72,7 +72,7 @@ const dataHasil = {
       "adalah seorang seniman, ilmuwan, dan penemu Italia, terkenal dengan karya seperti Mona Lisa dan The Last Supper. Dikenal karena kecerdasan dan penemuan-penemuannya di berbagai bidang, da Vinci dianggap salah satu jenius terbesar dalam sejarah manusia.",
     url: "./image/1.jpeg",
     jodoh: "Kreatif - Teliti - Penyabar",
-    film: "The Imitation Game - Good Will Hunting",
+    film: "The Help (2011) - Into the Wild (2007)",
   },
   "pria-sosial-inovasi-detail-memimpin-umum": {
     nomor: 2,
@@ -81,7 +81,7 @@ const dataHasil = {
       "adalah Presiden ketiga Amerika Serikat dan penulis utama Deklarasi Kemerdekaan. Ia memperluas wilayah AS melalui Pembelian Louisiana dan mendukung pemerintahan yang terbatas, hak individu, dan pendidikan. Jefferson meninggalkan warisan penting dalam pembentukan negara Amerika.",
     url: "./image/2.jpeg",
     jodoh: "Antusias - Tangguh - Humoris",
-    film: "1776 - Lincoln",
+    film: "A Silent Voice - Maharaja",
   },
   "pria-sosial-inovasi-detail-arahan-kelompok": {
     nomor: 3,
@@ -90,7 +90,7 @@ const dataHasil = {
       "adalah seorang ilmuwan, insinyur listrik, fisikawan, dan penemu yang lahir di Smiljan, Kroasia (saat itu bagian dari Kekaisaran Austria). Ia terkenal karena kontribusinya pada pengembangan teknologi arus bolak-balik (AC) dan inovasinya yang menjadi dasar banyak teknologi modern.",
     url: "./image/3.jpeg",
     jodoh: "Visioner - Mandiri - Pengertian",
-    film: "The Prestige - Interstellar",
+    film: "Logan (2017) - Interstellar",
   },
   "pria-sosial-inovasi-detail-arahan-umum": {
     nomor: 4,
@@ -99,7 +99,7 @@ const dataHasil = {
       'adalah seorang pendeta dan aktivis hak sipil dari Amerika Serikat yang memimpin perjuangan melawan diskriminasi rasial melalui aksi tanpa kekerasan. Ia terkenal dengan pidato "I Have a Dream" yang menyerukan kesetaraan dan keadilan.',
     url: "./image/4.jpeg",
     jodoh: "Religius - Penuh kasih - Loyal",
-    film: "Selma - The Butler",
+    film: "Wild Tales - Hacksaw Ridge",
   },
   "pria-sosial-inovasi-spontan-memimpin-kelompok": {
     nomor: 5,
@@ -108,7 +108,7 @@ const dataHasil = {
       "adalah Kaisar Prancis dan jenderal militer terkenal karena inovasinya dalam strategi perang. Ia memiliki jiwa pemimpin yang kuat, sering membuat keputusan spontan, dan mementingkan kepentingan Prancis serta pasukannya dalam memperluas kekaisaran dan mempertahankan kekuasaan.",
     url: "./image/5.jpeg",
     jodoh: "Tulus - Penyabar - Adaptif",
-    film: "Gladiator - The Last Samurai",
+    film: "The Wild Robot - Klaus (2019)",
   },
   "pria-sosial-inovasi-spontan-memimpin-umum": {
     nomor: 6,
@@ -117,7 +117,7 @@ const dataHasil = {
       "adalah pendiri Kekaisaran Mongol, kekaisaran terbesar dalam sejarah. Lahir sebagai Temüjin, ia menyatukan suku-suku Mongol dan menaklukkan sebagian besar Asia serta Eropa Timur. Dikenal karena strategi militernya, ia merevolusi perang dan menyebarkan budaya serta perdagangan di Jalur Sutra.",
     url: "./image/6.jpeg",
     jodoh: "Tegas - Ambisius - Religius",
-    film: "Kingdom of Heaven - Troy",
+    film: "Prisoners (2013) - Batman Begins",
   },
   "pria-sosial-inovasi-spontan-arahan-kelompok": {
     nomor: 7,
@@ -126,7 +126,7 @@ const dataHasil = {
       "adalah jenderal Amerika dalam Perang Revolusi yang dikenal karena berpindah pihak ke Inggris. Awalnya berjasa dalam kemenangan Amerika, ia kemudian berkhianat karena merasa tidak dihargai. Pengkhianatannya menjadikannya simbol pengkhianatan dalam sejarah Amerika.",
     url: "./image/7.jpeg",
     jodoh: "Waspada - Realistis - Teguh",
-    film: "The Patriot - The Devil's Advocate",
+    film: "Green Book - Hamilton",
   },
   "pria-sosial-inovasi-spontan-arahan-umum": {
     nomor: 8,
@@ -135,7 +135,7 @@ const dataHasil = {
       'adalah ilmuwan Italia, "Bapak Astronomi Modern," yang memelopori teleskop untuk mengamati langit. Ia mendukung teori heliosentris Copernicus, yang menempatkannya dalam konflik dengan Gereja. Penemuan pentingnya meliputi bulan Jupiter dan hukum gerak. Galileo meninggal dalam tahanan rumah di Arcetri.',
     url: "./image/8.jpeg",
     jodoh: "Kreatif - Dingin - Optimis",
-    film: "Hidden Figures - A Beautiful Mind",
+    film: "The Wold of Wall Street - Dangal (2016)",
   },
   "pria-sosial-rutinitas-detail-memimpin-kelompok": {
     nomor: 9,
@@ -144,7 +144,7 @@ const dataHasil = {
       "adalah raja kedua Israel yang memerintah sekitar 1010–970 SM. Terkenal sebagai gembala muda yang mengalahkan Goliath, ia menjadi pemimpin yang kuat dan penulis banyak Mazmur. Meski menghadapi konflik pribadi dan politik, pemerintahannya memperkuat Israel. Ia dihormati sebagai figur penting dalam tradisi Yahudi, Kristen, dan Islam.",
     url: "./image/9.jpeg",
     jodoh: "Tanggap - Proaktif - Sederhana",
-    film: "Thirteen Days - Apollo 13",
+    film: "Downfall (2004) - 1997",
   },
   "pria-sosial-rutinitas-detail-memimpin-umum": {
     nomor: 10,
@@ -153,7 +153,7 @@ const dataHasil = {
       "adalah penyair epik Yunani yang menulis Iliad dan Odyssey. Karya-karyanya, yang penuh detail, menggambarkan nilai-nilai kepahlawanan dan kebijaksanaan. Meskipun sedikit yang diketahui tentang hidupnya, Homer memengaruhi budaya Yunani dan memberikan kontribusi besar pada sastra dan pemikiran umum.",
     url: "./image/10.jpeg",
     jodoh: "Penyayang - Komunikatif - Mandiri",
-    film: "The Menu - No Hard Feelings",
+    film: "A Separation - Incendies",
   },
   "pria-sosial-rutinitas-detail-arahan-kelompok": {
     nomor: 11,
@@ -162,7 +162,7 @@ const dataHasil = {
       "adalah seorang jenderal dan politikus Romawi yang hidup pada masa kekuasaan Kaisar Augustus. Ia memainkan peran penting dalam pembangunan infrastruktur, seperti Colosseum dan kompleks Bath di Roma, serta membantu memperkuat dominasi kekaisaran di berbagai medan perang.",
     url: "./image/11.jpeg",
     jodoh: "Cerdas - Tegas - Berani",
-    film: "The Last Duel - Twelve Strong",
+    film: "Eternal Sunshine of the Spotless Mind",
   },
   "pria-sosial-rutinitas-detail-arahan-umum": {
     nomor: 12,
@@ -171,7 +171,7 @@ const dataHasil = {
       "adalah arsitek, tabib, dan penasihat Raja Djoser dari Mesir kuno. Ia merancang Piramida Bertingkat di Saqqara, piramida pertama dalam sejarah. Dianggap sebagai dewa kebijaksanaan setelah kematiannya, Imhotep juga dikenal sebagai pelopor kedokteran dan penulisan hieroglif.",
     url: "./image/12.jpeg",
     jodoh: "Adil - Pemimpin - Proaktif",
-    film: "Tomb Raider - The Nun II",
+    film: "The Hunt (2012) - Capernaum",
   },
   "pria-sosial-rutinitas-spontan-memimpin-kelompok": {
     nomor: 13,
@@ -180,7 +180,7 @@ const dataHasil = {
       'adalah pemimpin Kekaisaran Hun yang menakutkan di abad ke-5. Ia dikenal karena ekspansi militernya yang luas di Eropa, sering disebut "Cambuk Tuhan." Attila memimpin kampanye melawan Kekaisaran Romawi tetapi gagal menaklukkan Roma. Ia meninggal mendadak pada tahun 453.',
     url: "./image/13.jpeg",
     jodoh: "Tegas - Berani - Loyal",
-    film: "The Northman - Mortal Kombat",
+    film: "The Dark Knight Rises - Joker (2019)",
   },
   "pria-sosial-rutinitas-spontan-memimpin-umum": {
     nomor: 14,
@@ -189,7 +189,7 @@ const dataHasil = {
       "adalah pemimpin dan orator Athena selama Zaman Keemasan Yunani. Ia memperluas demokrasi, memimpin pembangunan Parthenon, dan memperkuat kekuatan laut Athena. Di bawah kepemimpinannya, Athena menjadi pusat seni, budaya, dan filsafat. Pericles meninggal akibat wabah yang melanda Athena selama Perang Peloponnesos.",
     url: "./image/14.jpeg",
     jodoh: "Cemburu - Disiplin - Religius",
-    film: "The King's Man - Tetris",
+    film: "12th Fail - Inglourious Basterds",
   },
   "pria-sosial-rutinitas-spontan-arahan-kelompok": {
     nomor: 15,
@@ -198,7 +198,7 @@ const dataHasil = {
       'adalah ahli strategi militer, negarawan, dan penasihat Shu Han selama Tiga Kerajaan di Tiongkok. Dikenal sebagai "Naga Tidur," ia terkenal karena kecerdasannya dalam taktik perang dan inovasi seperti repeating crossbow. Zhuge Liang melambangkan kebijaksanaan dan loyalitas dalam sejarah dan sastra Tiongkok.',
     url: "./image/15.jpeg",
     jodoh: "Bijaksana - Teliti - Pemikir",
-    film: "The Wandering Earth II - Dune",
+    film: "The Lives of Others - WALL-E",
   },
   "pria-sosial-rutinitas-spontan-arahan-umum": {
     nomor: 16,
@@ -207,7 +207,7 @@ const dataHasil = {
       "adalah pemimpin Skotlandia yang memimpin perlawanan melawan Inggris selama Perang Kemerdekaan Skotlandia. Dikenal karena kemenangan di Pertempuran Stirling Bridge (1297), ia menjadi simbol perjuangan kemerdekaan Skotlandia. Wallace akhirnya ditangkap dan dieksekusi oleh Inggris pada 1305.",
     url: "./image/16.jpeg",
     jodoh: "Berani - Setia - Pemberani",
-    film: "The Outpost - Emancipation",
+    film: "Untouchable - Parasite",
   },
   "pria-sendiri-inovasi-detail-memimpin-kelompok": {
     nomor: 17,
@@ -216,7 +216,7 @@ const dataHasil = {
       "adalah seorang filsuf dan politisi Italia, terkenal dengan karya The Prince, yang membahas kekuasaan dan strategi politik. Ia menekankan pragmatisme dan realisme dalam pemerintahan. Machiavelli dianggap sebagai bapak ilmu politik modern, meski sering dipandang kontroversial karena pandangannya yang tajam",
     url: "./image/17.jpeg",
     jodoh: "Bijaksana - Manipulatif - Egois",
-    film: "Oppenheimer - The Killer",
+    film: "Oppenheimer - Weapons",
   },
   "pria-sendiri-inovasi-detail-memimpin-umum": {
     nomor: 18,
@@ -650,7 +650,15 @@ question.innerHTML = questions[nomor].question;
 btn1.innerHTML = questions[nomor].choice1;
 btn2.innerHTML = questions[nomor].choice2;
 
+// containerHome.style.display = "none";
+// containerSoal.style.display = "none";
+// containerLoading.style.display = "none";
+// containerHasil.style.display = "flex";
+
 card.style.backgroundImage = "url('./image/home.webp')";
+// card.style.backgroundImage = `url(${dataHasil["pria-sosial-inovasi-detail-arahan-kelompok"].url})`;
+// card.style.backgroundPosition = "center -5px";
+// card.style.backgroundSize = "80%";
 
 btnMulai.addEventListener("click", () => {
   title.innerHTML = "Pilih yang sesuai dengan diri kamu";
@@ -783,7 +791,6 @@ document.getElementById("button-3d").addEventListener("click", () => {
 });
 
 document.getElementById("button-download").addEventListener("click", () => {
-  card.classList.remove("rounded-lg");
   html2canvas(document.getElementById("card")).then((canvas) => {
     const link = document.createElement("a");
     link.download = "card.png";
