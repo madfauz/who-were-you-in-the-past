@@ -687,6 +687,7 @@ btn1.addEventListener("click", () => {
         containerHasil.style.display = "flex";
         card.style.backgroundImage = `url(${dataHasil[score].url})`;
         btnRestart.classList.remove("hidden");
+        btnDownload.classList.remove("hidden");
       }, 3000);
     }, 100);
   }
@@ -720,6 +721,7 @@ btn2.addEventListener("click", () => {
         containerHasil.style.display = "flex";
         card.style.backgroundImage = `url(${dataHasil[score].url})`;
         btnRestart.classList.remove("hidden");
+        btnDownload.classList.remove("hidden");
       }, 3000);
     }, 100);
   }
@@ -781,6 +783,7 @@ document.getElementById("button-3d").addEventListener("click", () => {
 });
 
 document.getElementById("button-download").addEventListener("click", () => {
+  card.classList.remove("rounded-lg");
   html2canvas(document.getElementById("card")).then((canvas) => {
     const link = document.createElement("a");
     link.download = "card.png";
