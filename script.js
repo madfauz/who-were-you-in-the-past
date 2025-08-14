@@ -650,14 +650,13 @@ question.innerHTML = questions[nomor].question;
 btn1.innerHTML = questions[nomor].choice1;
 btn2.innerHTML = questions[nomor].choice2;
 
-card.style.backgroundImage = "url('./image/home.jpg')";
-// card.style.backgroundImage = "url('./image/3.jpeg')";
+card.style.backgroundImage = "url('./image/home.webp')";
 
 btnMulai.addEventListener("click", () => {
   title.innerHTML = "Pilih yang sesuai dengan diri kamu";
   containerSoal.style.display = "flex";
   containerHome.style.display = "none";
-  card.style.backgroundImage = "url('./image/whiteboard6.jpeg')";
+  card.style.backgroundImage = "url('./image/whiteboard6.webp')";
 });
 
 btn1.addEventListener("click", () => {
@@ -784,9 +783,9 @@ document.getElementById("button-3d").addEventListener("click", () => {
 document.getElementById("button-download").addEventListener("click", () => {
   html2canvas(document.getElementById("card")).then((canvas) => {
     const link = document.createElement("a");
-    link.download = "card.png"; // Nama file
-    link.href = canvas.toDataURL("image/png"); // Konversi ke gambar
-    link.click(); // Simpan file lokal
+    link.download = "card.png";
+    link.href = canvas.toDataURL("image/png");
+    link.click();
     alert("Kartu Berhasil Disimpan!");
   });
 });
