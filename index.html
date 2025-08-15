@@ -20,6 +20,12 @@
       id="card"
       class="relative w-[92%] max-w-[360px] h-[480px] rounded-lg bg-no-repeat bg-cover bg-center bg-gray-300 shadow-md duration-300 animated-card overflow-hidden"
     >
+      <img
+        id="frame"
+        src=""
+        class="w-full h-full absolute scale-[1.05] hidden"
+        alt=""
+      />
       <!-- home -->
       <div
         id="container-home"
@@ -97,15 +103,18 @@
       <!-- hasil -->
       <div
         id="container-hasil"
-        class="absolute flex-col w-full h-[max-content] p-4 bottom-0 rounded-lg hidden bg-gradient-to-b from-[rgba(0,0,0,0)] to-[rgba(0,0,0,1)]"
+        class="absolute flex-col w-full h-[30%] py-2 px-8 bottom-0 rounded-lg hidden mb-5"
       >
         <!-- bg-gradient-to-b from-[rgba(0,0,0,0)] to-[rgba(0,0,0,1)] -->
-        <h2 id="hasil" class="font-extrabold text-[20px] text-start text-white">
+        <h2
+          id="hasil"
+          class="w-full absolute font-bold top-[-16px] left-1/2 transform -translate-x-1/2 -translate-y-1/2 text-[20px] text-center"
+        >
           Nikola Tesla
         </h2>
         <h4
           id="deskripsi"
-          class="font-normal text-[10px] text-start text-white"
+          class="font-normal text-[10px] text-start text-[#9c682a] mt-2"
         >
           adalah seorang ilmuwan, insinyur listrik, fisikawan, dan penemu yang
           lahir di Smiljan, Kroasia (saat itu bagian dari Kekaisaran Austria).
@@ -113,18 +122,21 @@
           bolak-balik (AC) dan inovasinya yang menjadi dasar banyak teknologi
           modern.
         </h4>
-        <h3 class="font-bold text-[12px] text-start text-white pt-2">
+        <h3 class="font-bold text-[12px] text-center text-[#9c682a] pt-2">
           Karakteristik Jodoh
         </h3>
-        <h4 id="jodoh" class="font-normal text-[10px] text-start text-white">
+        <h4
+          id="jodoh"
+          class="font-normal text-[10px] text-center text-[#9c682a]"
+        >
           Visioner - Mandiri - Pengertian
         </h4>
-        <h3 class="font-bold text-[12px] text-start text-white pt-2">
+        <!-- <h3 class="font-bold text-[12px] text-start text-white pt-2">
           Rekomendasi Film
         </h3>
         <h4 id="film" class="font-normal text-[10px] text-start text-white">
           The Prestige - Interstellar
-        </h4>
+        </h4> -->
       </div>
     </section>
 

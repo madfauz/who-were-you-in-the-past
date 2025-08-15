@@ -16,6 +16,14 @@
   }
 }
 
+#container-hasil {
+  text-rendering: geometricPrecision;
+  -webkit-font-smoothing: antialiased;
+}
+#container-hasil * {
+  line-height: 1.5;
+}
+
 #bgCanvas {
   position: fixed;
   top: 0;
