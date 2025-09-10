@@ -661,6 +661,11 @@ const dataHasil = {
     jodoh: "Bijaksana - Loyal - Religius",
     film: "The Favourite - The Trial of the Chicago 7",
     rarity: "Epic",
+    caption: `<div>
+  <p><strong>Karismatik dan cerdas!</strong> Kamu punya pesona yang kuat 👑✨ 
+  bisa memikat orang dengan kecerdikan dan gaya bicaramu, serta tahu cara memimpin dengan penuh strategi.</p>
+  <p>🐍 <strong>Fun Fact:</strong> Sosok ini menguasai banyak bahasa dan dikenal sebagai salah satu pemimpin wanita paling berpengaruh di dunia kuno.</p>
+</div>`,
   },
   "sosial-inovasi-detail-arahan-kelompok-wanita": {
     nomor: 35,
@@ -671,6 +676,11 @@ const dataHasil = {
     jodoh: "Bijaksana - Teguh - Loyal",
     film: "The Favourite - The Trial of the Chicago 7",
     rarity: "Rare",
+    caption: `<div>
+  <p><strong>Tangguh dan visioner!</strong> Kamu tipe yang percaya diri 👑🔥 
+  mampu berdiri sendiri, penuh karisma, dan selalu punya strategi cerdas buat menghadapi tantangan.</p>
+  <p>🦁 <strong>Fun Fact:</strong> Sosok ini dijuluki "The Virgin Queen" dan membawa Inggris ke era kejayaan seni, ilmu, dan eksplorasi yang dikenal sebagai Zaman Elizabethan.</p>
+</div>`,
   },
   "sosial-inovasi-detail-arahan-umum-wanita": {
     nomor: 36,
@@ -681,6 +691,11 @@ const dataHasil = {
     jodoh: "Bijaksana - Tenang - Adaptif",
     film: "The Two Popes - Mary Queen of Scots",
     rarity: "Common",
+    caption: `<div>
+  <p><strong>Cerdas dan independen!</strong> Kamu punya rasa ingin tahu besar 🌌📚 
+  berani menentang arus, cinta pada ilmu pengetahuan, dan selalu berdiri tegak dengan prinsipmu.</p>
+  <p>🎬 <strong>Rekomendasi Film:</strong> <em>Agora</em> — drama sejarah tentang perjuangan seorang ilmuwan wanita dalam dunia yang didominasi konflik.</p>
+</div>`,
   },
   "sosial-inovasi-spontan-memimpin-kelompok-wanita": {
     nomor: 37,
@@ -691,6 +706,11 @@ const dataHasil = {
     jodoh: "Setia - Tulus - Tangguh",
     film: "Mulan - Wonder Woman",
     rarity: "Common",
+    caption: `<div>
+  <p><strong>Berani dan penuh keyakinan!</strong> Kamu punya jiwa yang teguh 🛡️🔥 
+  percaya pada intuisi, nggak gampang goyah meski dihadang rintangan besar, dan selalu siap membela apa yang kamu yakini benar.</p>
+  <p>🎮 <strong>Rekomendasi Game:</strong> <em>Age of Empires II</em> — kamu bisa ngerasain kisah perjuangan epiknya lewat campaign khusus.</p>
+</div>`,
   },
   "sosial-inovasi-spontan-memimpin-umum-wanita": {
     nomor: 38,
@@ -701,6 +721,11 @@ const dataHasil = {
     jodoh: "Tegas - Loyal - Kreatif",
     film: "The Iron Lady - Victoria",
     rarity: "Common",
+    caption: `<div>
+  <p><strong>Ambisius dan berwawasan luas!</strong> Kamu punya jiwa kepemimpinan yang elegan 👑✨ 
+  suka belajar hal baru, jago membangun relasi, dan selalu punya visi besar buat masa depan.</p>
+  <p>🌍 <strong>Fun Fact:</strong> Sosok ini memimpin Rusia selama lebih dari 30 tahun dan dikenal membawa era pencerahan dengan reformasi besar-besaran di bidang seni, ilmu, dan politik.</p>
+</div>`,
   },
   "sosial-inovasi-spontan-arahan-kelompok-wanita": {
     nomor: 39,
@@ -711,6 +736,11 @@ const dataHasil = {
     jodoh: "Setia - Tangguh - Sabar",
     film: "Finding Your Feet - The Leisure Seeker",
     rarity: "Common",
+    caption: `<div>
+  <p><strong>Tegas dan penuh tanggung jawab!</strong> Kamu tipe yang punya keteguhan hati 👑⚓ 
+  selalu berusaha menjaga kestabilan, peduli dengan orang-orang di sekitarmu, dan bisa memimpin dengan wibawa yang tenang.</p>
+  <p>📚 <strong>Rekomendasi Bacaan:</strong> <em>Victoria: A Life</em> — biografi mendalam tentang kehidupan pribadi dan kepemimpinannya yang bersejarah.</p>
+</div>`,
   },
   "sosial-inovasi-spontan-arahan-umum-wanita": {
     nomor: 40,
@@ -721,6 +751,11 @@ const dataHasil = {
     jodoh: "Ramah - Sabar - Setia",
     film: "The Pursuit of Happyness - The Martian",
     rarity: "Rare",
+    caption: `<div>
+  <p><strong>Penuh empati dan dedikasi!</strong> Kamu tipe yang selalu peduli ❤️‍🩹🌙 
+  rela berkorban demi kebaikan orang lain, punya hati lembut tapi tekad baja, dan nggak ragu untuk turun langsung membantu.</p>
+  <p>🕯️ <strong>Fun Fact:</strong> Sosok ini dijuluki "The Lady with the Lamp" karena selalu berkeliling malam hari merawat para prajurit yang terluka.</p>
+</div>`,
   },
   "sosial-rutinitas-detail-memimpin-kelompok-wanita": {
     nomor: 41,
@@ -731,6 +766,11 @@ const dataHasil = {
     jodoh: "Ramah - Adil - Loyal",
     film: "Ex Machina  - The Imitation Game",
     rarity: "Common",
+    caption: `<div>
+  <p><strong>Teliti dan penuh determinasi!</strong> Kamu tipe yang fokus 🔬💎 
+  nggak gampang puas dengan jawaban setengah-setengah, selalu cari kebenaran lewat detail, dan bekerja dengan kesabaran luar biasa.</p>
+  <p>🧬 <strong>Fun Fact:</strong> Sosok ini berjasa besar dalam penemuan struktur DNA lewat foto difraksi sinar-X yang legendaris, meski sering kurang mendapat pengakuan semasa hidupnya.</p>
+</div>`,
   },
   "sosial-rutinitas-detail-memimpin-umum-wanita": {
     nomor: 42,
@@ -741,6 +781,11 @@ const dataHasil = {
     jodoh: "Cerdas - Empati - Kreatif",
     film: "Little Women - Brooklyn",
     rarity: "Common",
+    caption: `<div>
+  <p><strong>Peka dan romantis!</strong> Kamu tipe yang jeli mengamati kehidupan sehari-hari 📖🌸 
+  suka menangkap detail kecil dalam interaksi sosial, penuh humor halus, dan punya cara elegan buat menyampaikan perasaan.</p>
+  <p>🎬 <strong>Rekomendasi Film:</strong> <em>Pride and Prejudice</em> (2005) — kisah ikonik tentang cinta, harga diri, dan keanggunan yang timeless.</p>
+</div>`,
   },
   "sosial-rutinitas-detail-arahan-kelompok-wanita": {
     nomor: 43,
@@ -751,6 +796,11 @@ const dataHasil = {
     jodoh: "Kritis - Sederhana - Disiplin",
     film: "Gravity - The Social Network",
     rarity: "Common",
+    caption: `<div>
+  <p><strong>Cerdas dan tangguh!</strong> Kamu tipe yang nggak gampang menyerah ⚛️🔥 
+  penuh rasa ingin tahu, mampu melihat peluang dalam tantangan, dan tetap teguh memperjuangkan kebenaran ilmiah.</p>
+  <p>🔬 <strong>Fun Fact:</strong> Sosok ini berperan penting dalam penemuan fisi nuklir, meskipun sering terlupakan dibanding rekan-rekan laki-lakinya.</p>
+</div>`,
   },
   "sosial-rutinitas-detail-arahan-umum-wanita": {
     nomor: 44,
@@ -761,6 +811,11 @@ const dataHasil = {
     jodoh: "Mandiri - Disiplin - Lembut",
     film: "The Iron Lady - Suffragette",
     rarity: "Legendary",
+    caption: `<div>
+  <p><strong>Visioner dan penuh semangat!</strong> Kamu tipe yang percaya kalau pendidikan dan pengetahuan bisa mengubah hidup 📚🌸 
+  punya hati tulus, peduli pada kesetaraan, dan selalu ingin membuka jalan untuk orang lain.</p>
+  <p>📚 <strong>Rekomendasi Bacaan:</strong> <em>Habis Gelap Terbitlah Terang</em> — kumpulan surat penuh inspirasi tentang perjuangan, harapan, dan kebebasan.</p>
+</div>`,
   },
   "sosial-rutinitas-spontan-memimpin-kelompok-wanita": {
     nomor: 45,
@@ -771,6 +826,11 @@ const dataHasil = {
     jodoh: "Tegas - Mandiri - Berani",
     film: "Alita: Battle Angel - Brave",
     rarity: "Common",
+    caption: `<div>
+  <p><strong>Tangguh dan penuh perlawanan!</strong> Kamu tipe yang nggak takut melawan ketidakadilan 🛡️🔥 
+  punya jiwa pemimpin yang kuat, berani ambil risiko besar, dan selalu berdiri tegak untuk melindungi orang-orang terdekatmu.</p>
+  <p>⚔️ <strong>Fun Fact:</strong> Sosok ini memimpin pemberontakan besar melawan Kekaisaran Romawi di Britania, jadi simbol keberanian dan kemerdekaan.</p>
+</div>`,
   },
   "sosial-rutinitas-spontan-memimpin-umum-wanita": {
     nomor: 46,
@@ -781,6 +841,11 @@ const dataHasil = {
     jodoh: "Kreatif - Disiplin - Teguh",
     film: "Lady Macbeth - Zero Dark Thirty",
     rarity: "Epic",
+    caption: `<div>
+  <p><strong>Kharismatik dan ambisius!</strong> Kamu tipe yang punya tekad kuat 👑🐉 
+  pintar membaca situasi, jago memimpin dengan strategi, dan selalu bisa menemukan jalan untuk mencapai tujuanmu.</p>
+  <p>🌺 <strong>Fun Fact:</strong> Sosok ini adalah satu-satunya wanita yang pernah memerintah Tiongkok sebagai kaisar dalam sejarah, membawa era kemakmuran dan reformasi besar.</p>
+</div>`,
   },
   "sosial-rutinitas-spontan-arahan-kelompok-wanita": {
     nomor: 47,
@@ -791,6 +856,11 @@ const dataHasil = {
     jodoh: "Peduli - Religius - Sabar",
     film: "The Book Thief - Arrival",
     rarity: "Rare",
+    caption: `<div>
+  <p><strong>Visioner dan penuh inspirasi!</strong> Kamu tipe yang kreatif sekaligus spiritual 🎶🌿 
+  suka menggabungkan seni, ilmu, dan kepercayaan untuk membawa harmoni, serta punya jiwa penyembuh yang menenangkan.</p>
+  <p>🌟 <strong>Fun Fact:</strong> Dikenal sebagai komposer dan tabib wanita abad pertengahan, bahkan dijuluki sebagai "Renaissance Woman" sebelum zamannya.</p>
+</div>`,
   },
   "sosial-rutinitas-spontan-arahan-umum-wanita": {
     nomor: 48,
@@ -801,6 +871,11 @@ const dataHasil = {
     jodoh: "Tangguh - Logis - Inovatif",
     film: "Her - A Beautiful Mind",
     rarity: "Epic",
+    caption: `<div>
+  <p><strong>Kreatif dan futuristik!</strong> Kamu tipe yang suka mikir jauh ke depan 💻✨ 
+  punya imajinasi tajam, bisa melihat potensi di balik teknologi, dan berani melampaui batas zamannya.</p>
+  <p>🎮 <strong>Rekomendasi Game:</strong> <em>Human Resource Machine</em> — puzzle coding seru yang bisa ngasah logika kreatifmu.</p>
+</div>`,
   },
   "sendiri-inovasi-detail-memimpin-kelompok-wanita": {
     nomor: 49,
@@ -811,6 +886,11 @@ const dataHasil = {
     jodoh: "Tegas - Inovatif - Analitis",
     film: "The Space Between Us - Ad Astra",
     rarity: "Common",
+    caption: `<div>
+  <p><strong>Penuh rasa ingin tahu dan berani berbeda!</strong> Kamu tipe yang nggak takut menantang pandangan lama 🌌🔭 
+  selalu berpikir kritis, detail, dan punya semangat untuk membuktikan kebenaran ilmiah.</p>
+  <p>📚 <strong>Rekomendasi Bacaan:</strong> <em>Empire of the Stars</em> — buku menarik tentang para astronom yang mengubah cara kita memahami alam semesta.</p>
+</div>`,
   },
   "sendiri-inovasi-detail-memimpin-umum-wanita": {
     nomor: 50,
@@ -821,6 +901,11 @@ const dataHasil = {
     jodoh: "Sabar - Tegas - Pemaaf",
     film: "Ammonite - Lady Bird",
     rarity: "Common",
+    caption: `<div>
+  <p><strong>Puitis dan penuh perasaan!</strong> Kamu tipe yang ekspresif 🌺🎶 
+  jago menyampaikan emosi lewat kata-kata, punya jiwa romantis, dan suka melihat keindahan dalam hal-hal kecil.</p>
+  <p>🎵 <strong>Fun Fact:</strong> Sosok ini dikenal sebagai salah satu penyair lirik terbesar dari Yunani kuno, karyanya sering disebut-sebut sebagai "Puisi Cinta Abadi."</p>
+</div>`,
   },
   "sendiri-inovasi-detail-arahan-kelompok-wanita": {
     nomor: 51,
@@ -831,6 +916,11 @@ const dataHasil = {
     jodoh: "Sederhana - Tulus - Sabar",
     film: "Les Miserables - The Post",
     rarity: "Common",
+    caption: `<div>
+  <p><strong>Pandai dan berpengaruh!</strong> Kamu tipe yang cerdas dalam berdiskusi 🏛️✨ 
+  suka menyampaikan ide-ide tajam, jago membangun relasi, dan bisa memberi inspirasi buat orang-orang di sekitarmu.</p>
+  <p>🌟 <strong>Fun Fact:</strong> Sosok ini dikenal sebagai tokoh intelektual di Athena kuno, bahkan dipercaya memberi pengaruh besar pada pemikiran filsafat dan politik Pericles.</p>
+</div>`,
   },
   "sendiri-inovasi-detail-arahan-umum-wanita": {
     nomor: 52,
@@ -841,6 +931,11 @@ const dataHasil = {
     jodoh: "Empati - Lembut - Tulus",
     film: "Potrait of a Lady on Fire - The Danish Girl",
     rarity: "Rare",
+    caption: `<div>
+  <p><strong>Kreatif dan penuh kelembutan!</strong> Kamu tipe yang suka menangkap sisi hangat kehidupan 🎨🌸 
+  detail dalam memperhatikan interaksi manusia, dan bisa bikin momen sederhana jadi luar biasa indah.</p>
+  <p>🖌️ <strong>Fun Fact:</strong> Sosok ini adalah pelukis Amerika yang jadi bagian penting gerakan Impresionisme di Prancis, terkenal dengan lukisan tentang ibu dan anak.</p>
+</div>`,
   },
   "sendiri-inovasi-spontan-memimpin-kelompok-wanita": {
     nomor: 53,
@@ -851,6 +946,11 @@ const dataHasil = {
     jodoh: "Teguh - Peduli - Penyabar",
     film: "The Secret Life of Walter Mitty - The Intouchables",
     rarity: "Legendary",
+    caption: `<div>
+  <p><strong>Penuh cinta dan spiritualitas!</strong> Kamu tipe yang mencari kedamaian batin 🌙💖 
+  hidupmu dipenuhi kasih tulus, sederhana, dan selalu berusaha mendekatkan diri pada hal-hal yang suci.</p>
+  <p>🕊️ <strong>Fun Fact:</strong> Sosok ini dikenal sebagai sufi wanita pertama yang mengajarkan konsep cinta ilahi, menekankan cinta tanpa pamrih kepada Tuhan.</p>
+</div>`,
   },
   "sendiri-inovasi-spontan-memimpin-umum-wanita": {
     nomor: 54,
@@ -861,6 +961,11 @@ const dataHasil = {
     jodoh: "Sensitif - Tulus - Sederhana",
     film: "An Education - The Broken Circle Breakdown",
     rarity: "Common",
+    caption: `<div>
+  <p><strong>Unik dan penuh ekspresi!</strong> Kamu tipe yang berani tampil beda 🎨🔥 
+  suka menyalurkan emosi lewat karya, kuat menghadapi rasa sakit, dan selalu setia dengan jati dirimu.</p>
+  <p>🌺 <strong>Fun Fact:</strong> Sosok ini dikenal lewat lukisan-lukisan penuh warna dan simbolisme pribadi, sering menggambarkan identitas, cinta, dan perjuangan hidupnya.</p>
+</div>`,
   },
   "sendiri-inovasi-spontan-arahan-kelompok-wanita": {
     nomor: 55,
@@ -871,6 +976,11 @@ const dataHasil = {
     jodoh: "Lugas - Cerdas - Sensitif",
     film: "A Ghost Story - Eternal Sunshine of the Spotless Mind",
     rarity: "Common",
+    caption: `<div>
+  <p><strong>Puitis dan reflektif!</strong> Kamu tipe yang mendalam dalam berpikir 📖🌊 
+  suka menyelami perasaan, menggali makna hidup, dan mengekspresikannya dengan kata-kata indah yang bikin orang terhanyut.</p>
+  <p>📚 <strong>Rekomendasi Bacaan:</strong> <em>Mrs Dalloway</em> — novel klasik yang penuh refleksi tentang waktu, kehidupan, dan kompleksitas manusia.</p>
+</div>`,
   },
   "sendiri-inovasi-spontan-arahan-umum-wanita": {
     nomor: 56,
@@ -881,6 +991,11 @@ const dataHasil = {
     jodoh: "Percaya - Lugas - Kritis",
     film: "Knives Out - Sherlock Holmes",
     rarity: "Common",
+    caption: `<div>
+  <p><strong>Cermat dan penuh misteri!</strong> Kamu tipe yang suka mengamati detail 🔍📚 
+  jago membaca situasi, berpikir logis, dan punya imajinasi yang bikin orang penasaran sama jalan pikiranmu.</p>
+  <p>🎬 <strong>Rekomendasi Film:</strong> <em>Murder on the Orient Express</em> — adaptasi klasik penuh intrik dan kejutan yang khas gaya misterinya.</p>
+</div>`,
   },
   "sendiri-rutinitas-detail-memimpin-kelompok-wanita": {
     nomor: 57,
@@ -891,6 +1006,11 @@ const dataHasil = {
     jodoh: "Setia - Sabar - Empati",
     film: "La La Land - Whiplash",
     rarity: "Rare",
+    caption: `<div>
+  <p><strong>Berbakat dan penuh perasaan!</strong> Kamu tipe yang bisa mengubah emosi jadi harmoni indah 🎹🎶 
+  punya dedikasi tinggi pada seni, setia pada orang yang disayang, dan mampu menginspirasi lewat karya buat.</p>
+  <p>🎧 <strong>Rekomendasi Musik:</strong> Dengarkan <em>Piano Concerto in A Minor</em> ciptaannya — penuh kekuatan, emosi, dan keanggunan.</p>
+</div>`,
   },
   "sendiri-rutinitas-detail-memimpin-umum-wanita": {
     nomor: 58,
@@ -901,6 +1021,11 @@ const dataHasil = {
     jodoh: "Sensitif - Lugas - Berani",
     film: "Promising Young Woman - The White Tiger",
     rarity: "Common",
+    caption: `<div>
+  <p><strong>Kuat dan penuh ekspresi!</strong> Kamu tipe yang berani melawan arus 🎨🔥 
+  jujur dalam menyampaikan emosi, mampu pengalaman jadi karya besar, dan punya keteguhan hati luar biasa.</p>
+  <p>🖌️ <strong>Fun Fact:</strong> Salah satu pelukis wanita paling terkenal di era Barok, dikenal dengan lukisan dramatis yang sering menampilkan perempuan kuat dan pemberani.</p>
+</div>`,
   },
   "sendiri-rutinitas-detail-arahan-kelompok-wanita": {
     nomor: 59,
@@ -911,6 +1036,11 @@ const dataHasil = {
     jodoh: "Ambisius - Sabar - Percaya",
     film: "The Hunger Games - Kill Bill: Vol. 1",
     rarity: "Rare",
+    caption: `<div>
+  <p><strong>Berani dan penuh semangat revolusi!</strong> Kamu tipe yang setia pada idealisme 🔥🕊️ 
+  nggak takut ikut terjun langsung, penuh keberanian, dan rela berkorban.</p>
+  <p>🌟 <strong>Fun Fact:</strong> Sosok ini dikenal sebagai pejuang kemerdekaan Amerika Selatan sekaligus pasangan sekaligus sekutu politik Simon Bolívar, dijuluki "Libertadora del Libertador."</p>
+</div>`,
   },
   "sendiri-rutinitas-detail-arahan-umum-wanita": {
     nomor: 60,
@@ -921,6 +1051,11 @@ const dataHasil = {
     jodoh: "Sabar - Sensitif - Empati",
     film: "Queen of Katwe - Coco",
     rarity: "Common",
+    caption: `<div>
+  <p><strong>Anggun dan penuh kharisma!</strong> Kamu tipe yang menawan dengan kehadiranmu 👑✨ 
+  suka menyeimbangkan keindahan dan kekuatan, serta mampu memberi pengaruh besar di lingkungan.</p>
+  <p>🌺 <strong>Fun Fact:</strong> Sosok ini adalah ratu Mesir kuno yang dikenal karena kecantikannya yang legendaris dan perannya penting dalam penyebaran ajaran dewa Aton.</p>
+</div>`,
   },
   "sendiri-rutinitas-spontan-memimpin-kelompok-wanita": {
     nomor: 61,
@@ -931,6 +1066,11 @@ const dataHasil = {
     jodoh: "Optimis - Mandiri - Tanggap",
     film: "12 Years a Slave - Dark Waters",
     rarity: "Common",
+    caption: `<div>
+  <p><strong>Penasaran dan penuh keberanian!</strong> Kamu tipe yang suka menjelajah dunia 🌍🖋️ 
+  nggak takut menantang batas, selalu haus pengalaman baru, dan punya tekad kuat untuk mengungkap kebenaran.</p>
+  <p>📚 <strong>Rekomendasi Bacaan:</strong> <em>Around the World in 72 Days</em> — catatan perjalanannya yang penuh petualangan dan inspirasi.</p>
+</div>`,
   },
   "sendiri-rutinitas-spontan-memimpin-umum-wanita": {
     nomor: 62,
@@ -941,6 +1081,11 @@ const dataHasil = {
     jodoh: "Sopan - Empati - Inovatif",
     film: "The Queen's Gambit - Potrait of a Lady",
     rarity: "Common",
+    caption: `<div>
+  <p><strong>Puitis dan penuh imajinasi!</strong> Kamu tipe yang suka merangkai cerita 🎴📖 
+  peka pada detail sehari-hari, jago menangkap emosi manusia, dan mampu menggambarkan keindahan lewat kata-kata.</p>
+  <p>📚 <strong>Rekomendasi Bacaan:</strong> <em>The Tale of Genji</em> — kisah klasik Jepang tentang cinta, politik, dan kehidupan istana yang penuh warna.</p>
+</div>`,
   },
   "sendiri-rutinitas-spontan-arahan-kelompok-wanita": {
     nomor: 63,
@@ -951,6 +1096,11 @@ const dataHasil = {
     jodoh: "Percaya - Serius - Pintar",
     film: "Pacific Rim - A Quiet Place",
     rarity: "Rare",
+    caption: `<div>
+  <p><strong>Gagah dan penuh keberanian!</strong> Kamu tipe yang pantang mundur di medan laga ⚔️🏹 
+  punya semangat juang tinggi, setia pada tujuan, dan bisa jadi inspirasi dengan kekuatan serta ketangguhanmu.</p>
+  <p>🎮 <strong>Rekomendasi Game:</strong> <em>Ghost of Tsushima</em> — seru banget buat ngerasain nuansa samurai dengan semangat perjuangan yang mirip karaktermu.</p>
+</div>`,
   },
   "sendiri-rutinitas-spontan-arahan-umum-wanita": {
     nomor: 64,
@@ -961,6 +1111,11 @@ const dataHasil = {
     jodoh: "Tulus - Empati - Sabar",
     film: "Eat Pray Love - Cloud Atlas",
     rarity: "Common",
+    caption: `<div>
+  <p><strong>Spiritual dan penuh cinta!</strong> Kamu tipe yang selalu mencari makna terdalam 💫🕊️ 
+  puitis dalam melihat dunia, penuh empati, dan mampu mengubah perasaan menjadi kata-kata yang menenangkan jiwa.</p>
+  <p>🎶 <strong>Rekomendasi Musik:</strong> Dengarkan musik sufi atau irama ney (seruling tradisional) — cocok banget buat menemani refleksi batinmu.</p>
+</div>`,
   },
 };
 
